@@ -1,0 +1,43 @@
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {turkish}
+\select@language {english}
+\numberline {}FIGURES
+\par 
+\select@language {turkish}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Diagram of the RS spacetime. ~\cite {R10}}}{6}{figure.1.1}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces LHC complex. ~\cite {R1}}}{10}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces CMS Detector sectional view. ~\cite {R2}}}{11}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Definition of azimuthal angle($\phi $) and ($\eta $).}}{11}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces One quarter of the CMS Tracker layout. ~\cite {R15}}}{12}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Layout of the CMS electromagnetic calorimeter presenting the arrangement of crystal modules, supermodules, endcaps and the preshower in front ~\cite {R16}.}}{13}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces One quarter of HCAL Longitudinal view. The dashed lines are fixed $\eta $ values ~\cite {R16}.}}{14}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces A longitudinal view of the muon system indicating the location of the three detector types of the muon system. Dashed lines represent fixed $\eta $ ~\cite {R16}.}}{15}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces General tdaq structure of CMS (left), summarised tdaq structure of CMS(right) ~\cite {R16}.}}{16}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces DATA tiers of CMS ~\cite {R18}.}}{17}{figure.2.9}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces t* decays to top quark and a photon semi-leptonicly.}}{20}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Multiplicity distribution for muon.}}{22}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Multiplicity distribution for electron.}}{23}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Multiplicity distribution for photon.}}{25}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Multiplicity distribution for photon.}}{26}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Invariant mass distribution of leptonic $W$ boson assuming there is a signal at 800 $GeV/c^2$.}}{28}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Invariant mass distribution of hadronic $W$ boson assuming there is a signal at 800 $GeV/c^2$.}}{29}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Invariant mass distribution of leptonic top quark assuming there is a signal at 800 $GeV/c^2$.}}{29}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Invariant mass distribution of hadronic top quark assuming there is a signal at 800 $GeV/c^2$.}}{30}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Invariant mass distribution of leptonic $t^*$ assuming there is a signal at 800 $GeV/c^2$.}}{30}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Invariant mass distribution of hadronic $t^*$ assuming there is a signal at 800 $GeV/c^2$.}}{31}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Electron-Photon invariant mass fit for the no-electron-veto selection (upper plot) and the tight ID selection (lower plot). The fit fuction is a BreitWigner convoluted to a Crystall Ball with a fast Fourier trasformation (for the signal) plus a CMSShape (for the background).}}{38}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces $\epsilon l$: electron-veto to no-electron-veto ratio to Eta .}}{39}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces $\epsilon l$: electron-veto to no-electron-veto ratio to NJets .}}{40}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces $\epsilon l$: electron-veto to no-electron-veto ratio to NVTX .}}{41}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces $\epsilon l$: electron-veto to no-electron-veto ratio to $P_T$ .}}{42}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Muon-Muon-Photon invariant mass fit for the no-electron-veto selection (upper plot) and the tight ID selection (lower plot). The fit fuction is a BreitWigner convoluted thanks to a fast Fourier trasformation to a Gaussian (for the signal) plus a CMSShape (for the background).}}{44}{figure.3.17}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces the crosection of t* while x axis is mass.}}{48}{figure.4.1}
