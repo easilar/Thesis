@@ -1,0 +1,369 @@
+%% ----------------------------------------------------------------
+%% Thesis.tex -- MAIN FILE (the one that you compile with LaTeX)
+%% ----------------------------------------------------------------
+
+% Set up the document
+\documentclass[a4paper, 11pt, twoside]{Thesis}  % Use the "Thesis" style, based on the ECS Thesis style by Steve Gunn
+%\graphicspath{Figures/}  % Location of the graphics files (set up for graphics to be in PDF format)
+
+
+% Include any extra LaTeX packages required
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[square, numbers, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
+\usepackage{verbatim}  % Needed for the "comment" environment to make LaTeX comments
+\usepackage{vector}  % Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
+\hypersetup{urlcolor=blue, colorlinks=true}  % Colours hyperlinks in blue, but this can be distracting if there are many links.
+\usepackage{slashed}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+\usepackage{calrsfs}
+\usepackage{afterpage}
+%\usepackage{fancyvrb} % Mehr Optionen für Verbatim
+%\usepackage{paralist} % Für compactitem und compactenum
+\usepackage{array} % Matrizen in mathematischen Formeln
+
+%\usepackage{tocbibind}
+
+%\usepackage{geometry} % Seitenränder und Seiteneigenschaften setzen
+%\usepackage{xkeyval} % Erlaubt "Variablen" zu definieren, wird für Titelseite gebraucht
+
+%\usepackage{tabularx, booktabs}
+%\newcolumntype{Y}{>{\centering\arraybackslash}X}
+
+\DeclareMathAlphabet{\pazocal}{OMS}{zplm}{m}{n}
+
+\usepackage[toc,page]{appendix}
+%\usepackage{feynmf}
+
+%\usepackage[utf8]{inputenc}
+\usepackage{feynmp-auto}
+%\usepackage{mathtools}% http://ctan.org/pkg/mathtools
+%\newcommand{\fsl}[1]{\ensuremath{\mathrlap{\!\not{\phantom{#1}}}#1}}
+
+%\input{titlepage.tex}
+
+%user specific commands
+\captionsetup{justification=justified,singlelinecheck=false}
+
+\newcommand{\TFiveqqqqHM}{\ensuremath{\textrm{T5q}^{4}\textrm{WW} 1.2/0.8}\xspace}
+\newcommand{\TFiveqqqqHL}{\ensuremath{\textrm{T5q}^{4}\textrm{WW} 1.5/0.1}\xspace}
+\newcommand{\TFiveqqqq}{\ensuremath{\textrm{T5q}^{4}\textrm{WW}}\xspace}
+
+\newcommand{\come}{\ensuremath{\sqrt{s}=13~\textrm{TeV}}\xspace}
+
+\newcommand{\LT}{\ensuremath{L_{\rm T}}\xspace}
+\newcommand{\ST}{\ensuremath{L_{\rm T}}\xspace}
+\newcommand{\HT}{\ensuremath{H_{\rm T}}\xspace}
+\newcommand{\DF}{\ensuremath{\Delta \phi}\xspace}
+\newcommand{\LP}{\ensuremath{L_P}\xspace}
+\newcommand{\DFWL}{\ensuremath{\Delta \phi\textrm{(W, }\ell)}\xspace}
+\newcommand{\Rcs}{\ensuremath{R_{\rm CS}}\xspace}
+\newcommand{\nbjet}{\ensuremath{n_{\rm b-jet}}\xspace}
+\newcommand{\nbtag}{\ensuremath{n_{\rm b-tag}}\xspace}
+\newcommand{\njet}{\ensuremath{n_{\rm jet}}\xspace}
+\newcommand{\njetSR}{\ensuremath{n_\textrm{jet}^{\textrm{SR}}}\xspace}
+\newcommand{\gluino}{\ensuremath{\widetilde{g}}\xspace} % gluino
+\newcommand{\nino}{\ensuremath{\widetilde{\chi}}\xspace} % neutralino
+\newcommand{\ninozero}{\ensuremath{\widetilde{\chi}^0}\xspace} % neutralino with superscript 0
+\newcommand{\ninoone}{\ensuremath{\widetilde{\chi}^0_1}\xspace} % neutralino with superscript 0 and subscript 1
+\newcommand{\ninotwo}{\ensuremath{\widetilde{\chi}^0_2}\xspace} % neutralino with superscript 0 and subscript 2
+\newcommand{\ninothree}{\ensuremath{\widetilde{\chi}^0_3}\xspace} % neutralino with superscript 0 and subscript 3
+\newcommand{\ninofour}{\ensuremath{\widetilde{\chi}^0_4}\xspace} % neutralino with superscript 0 and subscript 4
+\newcommand{\chipm}{\ensuremath{\widetilde{\chi}^{\pm}}\xspace} % chargino with superscript pm and subscript 1
+\newcommand{\chipmone}{\ensuremath{\widetilde{\chi}^{\pm}_1}\xspace} % chargino with superscript pm and subscript 1
+\newcommand{\chipone}{\ensuremath{\widetilde{\chi}^{+}_1}\xspace} % chargino with superscript p and subscript 1
+\newcommand{\chipmtwo}{\ensuremath{\widetilde{\chi}^{\pm}_2}\xspace} % chargino with superscript pm and subscript 1
+
+
+\newcommand{\mgl}{\ensuremath{m_{\widetilde{g}}}\xspace} % gluino
+\newcommand{\mnzero}{\ensuremath{m_{\widetilde{\chi}^0}}\xspace} % neutralino with superscript 0
+\newcommand{\mnone}{\ensuremath{m_{\widetilde{\chi}^0_1}}\xspace} % neutralino with superscript 0
+\newcommand{\mntwo}{\ensuremath{m_{\widetilde{\chi}^0_2}}\xspace} % neutralino with superscript 0
+\newcommand{\mcone}{\ensuremath{m_{\widetilde{\chi}^{\pm}_1}}\xspace} % chargino with superscript pm and subscript 1
+
+
+\newcommand{\fbinv}{\ensuremath{{\textrm{fb}^{-1}}}\xspace}
+\newcommand{\sqrts}{\ensuremath{\sqrt{s}}\xspace}
+\newcommand{\btag}{\ensuremath{{\rm b-tag}}\xspace}
+\newcommand{\zeroTag}{\ensuremath{0\textrm{-tag}}\xspace}
+\newcommand{\oneTag}{\ensuremath{1\textrm{-tag}}\xspace}
+\newcommand{\twoTag}{\ensuremath{\ge\hspace{-0.08em}2\textrm{-tag}}\xspace}
+\newcommand{\onePlusTag}{\ensuremath{\ge\hspace{-0.08em}1\textrm{-tag}}\xspace}
+\newcommand{\Rcscorr}{\ensuremath{R_{\textrm{CS}}^{\textrm{corr.}}}}
+\newcommand{\Rcsw}{\ensuremath{R_{\textrm{CS}}^{W}}}
+\newcommand{\Rcstt}{\ensuremath{R_{\textrm{CS}}^{t\bar{t}}}}
+
+\newcommand{\kappab}{\ensuremath{\kappa_{b}}\xspace}
+\newcommand{\kappaw}{\ensuremath{\kappa_{W}}\xspace}
+\newcommand{\kappatt}{\ensuremath{\kappa_{t\bar{t}}}\xspace}
+
+\newcommand{\wJets}{W+jets\xspace}
+\newcommand{\ttJets}{\ensuremath{t\bar{t}+\textrm{jets}}\xspace}
+\newcommand{\ttWJets}{\ensuremath{t\bar{t}W+\textrm{jets}}\xspace}
+\newcommand{\singleTop}{\ensuremath{t/\bar{t}}\xspace}
+\newcommand{\TTVH}{\ensuremath{t\bar{t}W}\xspace}
+\newcommand{\DY}{\ensuremath{\textrm{Drell-Yan}}\xspace}
+
+
+\newcommand{\wpJets}{W+jets\xspace}
+\newcommand{\wmJets}{W+jets\xspace}
+\newcommand{\yFit}{\ensuremath{y^{\textrm{fit}}}}
+\newcommand{\yPred}{\ensuremath{y^{\textrm{pred.}}}}
+\newcommand{\yMC}{\ensuremath{y^{\textrm{MC}}}}
+\newcommand{\MPF}{\ensuremath{\textrm{MPF}}}
+\newcommand{\MET}{\ensuremath{\slashed{E}_T}\xspace}
+\newcommand{\METvec}{\ensuremath{\vec{\slashed{E}}_T}\xspace}
+\newcommand{\fakeMET}{\ensuremath{\slashed{E}_T^{\textrm{fake}}}\xspace}
+\newcommand{\genMET}{\ensuremath{\slashed{E}_T^{\textrm{gen}}}\xspace}
+\newcommand{\recoMET}{\ensuremath{\slashed{E}_T^{\textrm{reco}}}\xspace}
+\newcommand{\trueLT}{\ensuremath{L_T^{\textrm{true}}}\xspace}
+
+
+\newcommand{\pt}{\ensuremath{p_T}\xspace}
+\newcommand{\ptvec}{\ensuremath{\vec{p}_T}\xspace}
+\newcommand{\ttbar}{\ensuremath{t\bar{t}}\xspace}
+
+\hypersetup{ % Setzt einige Werte die in den Eigenschaften des PDF gespeichert sind.
+	pdfauthor = {Daniel Spitzbart},
+	pdftitle = {Search for supersymmetry in the single lepton final state in 13 TeV pp collisions with the CMS experiment},
+	pdfsubject = {Diplomarbeit Physik},
+	pdfkeywords = {diplom, master},
+	pdfdisplaydoctitle = true,
+	colorlinks = false, % Für Druck auf "false" setzen!
+}
+
+
+%% ----------------------------------------------------------------
+\begin{document}
+\frontmatter      % Begin Roman style (i, ii, iii, iv...) page numbering
+
+\input{titlepage}
+
+
+%% Set up the Title Page
+%\title  {Search for supersymmetry in the single lepton final state in 13 TeV pp collisions with the CMS experiment}
+%\authors  {\texorpdfstring
+%            {\href{your web site or email address}{Author Name}}
+%            {Daniel Spitzbart}
+%            }
+%\addresses  {\groupname\\\deptname\\\univname}  % Do not change this here, instead these must be set in the "Thesis.cls" file, please look through it instead
+%\date       {\today}
+%\subject    {}
+%\keywords   {}
+%
+%\maketitle
+%%% ----------------------------------------------------------------
+
+\setstretch{1.3}  % It is better to have smaller font and larger line spacing than the other way round
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{}  % Clears all page headers and footers
+\rhead{\thepage}  % Sets the right side header to show the page number
+\lhead{}  % Clears the left side page header
+
+\pagestyle{empty}  % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\afterpage{\null\newpage}
+
+%% ----------------------------------------------------------------
+% Declaration Page required for the Thesis, your institution may give you a different text to place here
+%\Declaration{
+%
+%\addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
+%
+%I, AUTHOR NAME, declare that this thesis titled, `THESIS TITLE' and the work presented in it are my own. I confirm that:
+%
+%\begin{itemize}
+%\item[\tiny{$\blacksquare$}] This work was done wholly or mainly while in candidature for a research degree at this University.
+%
+%\item[\tiny{$\blacksquare$}] Where any part of this thesis has previously been submitted for a degree or any other qualification at this University or any other institution, this has been clearly stated.
+%
+%\item[\tiny{$\blacksquare$}] Where I have consulted the published work of others, this is always clearly attributed.
+%
+%\item[\tiny{$\blacksquare$}] Where I have quoted from the work of others, the source is always given. With the exception of such quotations, this thesis is entirely my own work.
+%
+%\item[\tiny{$\blacksquare$}] I have acknowledged all main sources of help.
+%
+%\item[\tiny{$\blacksquare$}] Where the thesis is based on work done by myself jointly with others, I have made clear exactly what was done by others and what I have contributed myself.
+%\\
+%\end{itemize}
+%
+%
+%Signed:\\
+%\rule[1em]{25em}{0.5pt}  % This prints a line for the signature
+%
+%Date:\\
+%\rule[1em]{25em}{0.5pt}  % This prints a line to write the date
+%}
+\clearpage  % Declaration ended, now start a new page
+
+%% ----------------------------------------------------------------
+% The "Funny Quote Page"
+\pagestyle{empty}  % No headers or footers for the following pages
+
+\null\vfill
+% Now comes the "Funny Quote", written in italics
+\textit{``Look closely. The beautiful may be small.''}
+
+\begin{flushright}
+Immanuel Kant
+\end{flushright}
+
+\vfill\vfill\vfill\vfill\vfill\vfill\null
+\clearpage  % Funny Quote page ended, start a new page
+%% ----------------------------------------------------------------
+
+% The Abstract Page
+
+\input{abstract}
+%\clearpage  % Abstract ended, start a new page
+
+\input{kurzfassung}
+%\clearpage  % Abstract ended, start a new page
+%% ----------------------------------------------------------------
+
+\setstretch{1.3}  % Reset the line-spacing to 1.3 for body text (if it has changed)
+
+% The Acknowledgements page, for thanking everyone
+%\acknowledgements{
+%\addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
+%
+%The acknowledgements and the people to thank go here, don't forget to include your project advisor\ldots
+%
+%}
+\input{acknowledgements}
+%\clearpage  % End of the Acknowledgements
+%% ----------------------------------------------------------------
+
+\pagestyle{fancy}  %The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+
+%% ----------------------------------------------------------------
+\lhead{\emph{Contents}}  % Set the left side page header to "Contents"
+\tableofcontents  % Write out the Table of Contents
+
+
+
+%% ----------------------------------------------------------------
+%\setstretch{1.5}  % Set the line spacing to 1.5, this makes the following tables easier to read
+%\clearpage  % Start a new page
+%\lhead{\emph{Abbreviations}}  % Set the left side page header to "Abbreviations"
+%\listofsymbols{ll}  % Include a list of Abbreviations (a table of two columns)
+%{
+%% \textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
+%\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
+%
+%}
+
+%% ----------------------------------------------------------------
+%\clearpage  % Start a new page
+%\lhead{\emph{Physical Constants}}  % Set the left side page header to "Physical Constants"
+%\listofconstants{lrcl}  % Include a list of Physical Constants (a four column table)
+%{
+%% Constant Name & Symbol & = & Constant Value (with units) \\
+%Speed of Light & $c$ & $=$ & $2.997\ 924\ 58\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
+%
+%}
+
+%% ----------------------------------------------------------------
+%\clearpage  %Start a new page
+%\lhead{\emph{Symbols}}  % Set the left side page header to "Symbols"
+%\listofnomenclature{lll}  % Include a list of Symbols (a three column table)
+%{
+%% symbol & name & unit \\
+%$a$ & distance & m \\
+%$P$ & power & W (Js$^{-1}$) \\
+%& & \\ % Gap to separate the Roman symbols from the Greek
+%$\omega$ & angular frequency & rads$^{-1}$ \\
+%}
+%% ----------------------------------------------------------------
+% End of the pre-able, contents and lists of things
+% Begin the Dedication page
+
+\setstretch{1.3}  % Return the line spacing back to 1.3
+
+\pagestyle{empty}  % Page style needs to be empty for this page
+\dedicatory{To my family.}% my parents and grandparents, whom I owe everything.}
+
+\addtocontents{toc}{\vspace{2em}}  % Add a gap in the Contents, for aesthetics
+
+
+%% ----------------------------------------------------------------
+\mainmatter	  % Begin normal, numeric (1,2,3...) page numbering
+%\lhead{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE,LO]{\leftmark}
+\pagestyle{fancy}  % Return the page headers back to the "fancy" style
+
+% Include the chapters of the thesis, as separate files
+% Just uncomment the lines as you write the chapters
+
+%\chapter{Searches for SUSY with the $\textrm{R}_{\textrm{CS}}$ Method}
+%\input{Chapters/Intro} %Introduction
+
+\input{Chapters/Chapter3} % SM & SUSY
+
+\input{Chapters/Chapter1} % LHC
+
+\input{Chapters/Chapter2} % CMS
+
+\input{Chapters/Chapter4/reconstruction}
+\input{Chapters/Chapter4}
+\input{Chapters/Chapter4/validation}
+
+%\input{Chapters/Chapter4} % Search
+
+\input{Chapters/Chapter5} % Results
+
+\input{Chapters/Chapter6} % Conclusion
+
+
+
+
+%% ----------------------------------------------------------------
+% Now begin the Appendices, including them as separate files
+
+\cleardoublepage
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\begin{appendices}
+
+\input{Appendices/AppendixA}	% Appendix Title
+
+%\input{Appendices/AppendixB} % Appendix Title
+
+%\input{Appendices/AppendixC} % Appendix Title
+\end{appendices}
+
+%\pagestyle{fancy}  %The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\cleardoublepage
+
+\addtocontents{toc}{\vspace{2em}}  % Add a gap in the Contents, for aesthetics
+
+%% ----------------------------------------------------------------
+\lhead{\emph{List of Figures}}  % Set the left side page header to "List if Figures"
+\listoffigures  % Write out the List of Figures
+
+%\addtocontents{toc}{\vspace{2em}}
+
+%% ----------------------------------------------------------------
+\lhead{\emph{List of Tables}}  % Set the left side page header to "List of Tables"
+\listoftables  % Write out the List of Tables
+
+\addtocontents{toc}{\vspace{2em}}  % Add a gap in the Contents, for aesthetics
+
+\backmatter
+
+%% ----------------------------------------------------------------
+\label{Bibliography}
+\lhead{\emph{Bibliography}}  % Change the left side page header to "Bibliography"
+\bibliographystyle{utphys}  % Use the "unsrtnat" BibTeX style for formatting the Bibliography
+\bibliography{Bibliography}  % The references (bibliography) information are stored in the file named "Bibliography.bib"
+
+\end{document}  % The End
+%% ----------------------------------------------------------------
