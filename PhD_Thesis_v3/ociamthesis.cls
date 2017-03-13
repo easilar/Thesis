@@ -65,7 +65,7 @@
 {
 % Latest Logo, Square version (the default!)
 % you need an oxlogo.eps or oxlogo.pdf file as appropriate
-\def\logo{{\includegraphics[width=100mm]{TU_Wien_Logo}}}
+\def\logo{{\includegraphics[width=50mm]{TU_Wien_Logo}}}
 }{}
 
 %
