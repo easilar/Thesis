@@ -268,19 +268,4 @@ der \"Osterreichischen Akademie der Wissenschaften}
  \advance\leftmargin\labelsep \itemsep \z@}\def\makelabel##1{##1 \hfil}}%
 \def\endtheglossary{\end{list}\if@restonecol\onecolumn\else\clearpage\fi}
 
-\def\preliminaries{\pagenumbering{roman}\pagestyle{plain}}
-\def\endpreliminaries{
-\if@twoside\cleardoublepage\else\newpage\fi\pagestyle{headings}\pagenumbering{arabic}%
-\addtocontents{toc}{\protect\numberline {}\@chapterslabel}
-\addtocontents{lof}{\protect\numberline {}\@figureslabel}
-\addtocontents{lof}{\par}
-\addtocontents{lot}{\protect\numberline {}\@tableslabel}
-\addtocontents{lot}{\par}
-\ift@rkish
-\shorthandoff{=}
-\shorthandoff{:}
-\shorthandoff{!}
-\fi
-}
-
 
