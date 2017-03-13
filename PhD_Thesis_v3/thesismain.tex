@@ -42,22 +42,23 @@
 
 %now include the files of latex for each of the chapters etc
 \include{abbreviations}
-\include{introduction}
-\include{superSymmetry}
-\include{experimentalSetup}
-\include{objectRecoIdentification}
-\include{eventSel}
-\include{signalRegions}
-\include{backgroundEstimation}
-\include{systematics}
-\include{results}
-\include{conclusion}
+\input{introduction.tex}
+\input{superSymmetry.tex}
+\input{experimentalSetup.tex}
+\input{objectRecoIdentification.tex}
+\input{eventSel.tex}
+\input{signalRegions.tex}
+\input{backgroundEstimation.tex}
+\input{systematics.tex}
+\input{results.tex}
+\input{conclusion.tex}
+
 \clearpage
+%now enable appendix numbering format and include any appendices
 \appendix
 \include{appendix}
 \include{bibliography}
 
-%now enable appendix numbering format and include any appendices
 \include{cv}
 
 %next line adds the Bibliography to the contents page
