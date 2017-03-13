@@ -65,7 +65,7 @@
 {
 % Latest Logo, Square version (the default!)
 % you need an oxlogo.eps or oxlogo.pdf file as appropriate
-\def\logo{{\includegraphics[width=32mm]{TU_Wien_Logo}}}
+\def\logo{{\includegraphics[width=200mm]{TU_Wien_Logo}}}
 }{}
 
 %
@@ -109,8 +109,8 @@
     {Ausgef\"uhrt am Atominstitut der Technischen Universit\"at Wien\\
 in Verbindung mit dem Institut f\"ur Hochenergiephysik (HEPHY)\\
 der \"Osterreichischen Akademie der Wissenschaften}
-%\vspace*{25mm}
-%    {{\submittedtext} \par}
+\vspace*{25mm}
+    { \par}
 \vspace*{1ex}
     {\it {\@degree} \par}
 \vspace*{2ex}
