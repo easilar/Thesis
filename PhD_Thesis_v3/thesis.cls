@@ -264,3 +264,11 @@ der \"Osterreichischen Akademie der Wissenschaften}
    \begin{quote}}
 {\end{quote}\end{alwayssingle}}
 
+%bibliography
+\def\thebibliography{
+\newpage
+\@ifnextchar[{\@themybib}{\@themybib[]}
+}
+\def\endthebibliography{\endlist}
+
+
