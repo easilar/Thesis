@@ -255,17 +255,12 @@ der \"Osterreichischen Akademie der Wissenschaften}
 {\cleardoublepage\renewcommand{\thepage}{\arabic{page}}\setcounter{page}{1}}
 
 %Glossary
-\def\theglossary#1{\def\he@dgl@{\singlespacing
-\@restonecoltrue \if@twocolumn\@restonecolfalse
- \fi\columnseprule \z@ \columnsep 35pt
- \prechapter*{\vskip 3.5mm \uppercase\expandafter{\@symb@l}%
-\@mkboth{\uppercase{\@symb@l}}{\uppercase{\@symb@l}}}%
-\parindent \z@ \parskip \z@ plus .3pt\relax }%
- \def\symb@l[##1]{\def\@symb@l{##1}\he@dgl@}%
-\@ifnextchar[{\symb@l}{\symb@l[\@loab]}%
-\addcontentsline{toc}{leads}{\protect\numberline {}\@loab}
-\begin{list}{}{\settowidth\labelwidth{[#1]}\leftmargin\labelwidth %labelsep 0.1cm
- \advance\leftmargin\labelsep \itemsep \z@}\def\makelabel##1{##1 \hfil}}%
-\def\endtheglossary{\end{list}\if@restonecol\onecolumn\else\clearpage\fi}
-
+\renewenvironment{glossary} {\begin{alwayssingle} \thispagestyle{empty}
+  \begin{center}
+  \vspace*{1.5cm}
+  {\Large \bfseries  Abbreviations}
+  \end{center}
+  \vspace{0.5cm}
+   \begin{quote}}
+{\end{quote}\end{alwayssingle}}
 
