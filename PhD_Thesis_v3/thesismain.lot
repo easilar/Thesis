@@ -1,0 +1,35 @@
+\addvspace {10\p@ }
+\contentsline {xchapter}{Supersymmetry: as an extension of Standard Model}{1}{chapter.1}
+\contentsline {table}{\numberline {1.1}{\ignorespaces Chiral supermultiplets of the MSSM}}{14}{table.1.1}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Gauge supermultiplets of the MSSM}}{14}{table.1.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Experimental Setup}{21}{chapter.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Object reconstruction and identification}{31}{chapter.3}
+\contentsline {table}{\numberline {3.1}{\ignorespaces List of selection criteria for the CMS electron identification.}}{35}{table.3.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Event Selection:\\Baseline and Search regions}{40}{chapter.4}
+\contentsline {table}{\numberline {4.1}{\ignorespaces List of kinematic variables}}{41}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Weights based on the number of ISR jets as given in Ref.\nobreakspace {}\cite {nISRweightTTbar}}}{45}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces List of event selection criteria and object requirements.}}{48}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces List of HLT paths}}{50}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Signal regions.}}{58}{table.4.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Background Estimation: $\ensuremath {R_{\rm CS}}$ Method}{61}{chapter.5}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Overview of the definitions of sideband and mainband regions. For the multijet (QCD) fit the electron (e) sample is used, while for the determination (det.) of $\ensuremath {R_{\rm CS}}(\ensuremath {W+\textrm {jets}})$ the muon ($\mu $) sample is used. Empty cells are not used in the analysis. }}{62}{table.5.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Systematic Uncertainties}{72}{chapter.6}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Results and Interpretation}{80}{chapter.7}
+\contentsline {table}{\numberline {7.1}{\ignorespaces Conversion of $\ensuremath {R_{\rm CS}}$ regions to corresponding ABCDEF regions}}{83}{table.7.1}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{94}{chapter.8}
+\addvspace {10\p@ }
+\contentsline {xchapter}{MC Samples and cross sections}{97}{appendix.A}
+\contentsline {table}{\numberline {A.1}{\ignorespaces List of simulated $\ensuremath {t\mathaccentV {bar}016{t}+\textrm {jets}}$ background samples with a 25ns bunch crossing processed in CMSSW version 8\_0\_x.}}{97}{table.A.1}
+\contentsline {table}{\numberline {A.2}{\ignorespaces List of simulated $\ensuremath {W+\textrm {jets}}$ background samples with a 25ns bunch crossing processed in CMSSW version 8\_0\_x.}}{97}{table.A.2}
+\contentsline {table}{\numberline {A.3}{\ignorespaces List of the rest of simulated background samples with a 25ns bunch crossing processed in CMSSW version 8\_0\_x.}}{98}{table.A.3}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Control Plots}{99}{appendix.B}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Statistical Tests}{106}{appendix.C}

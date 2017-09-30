@@ -4,7 +4,7 @@
 % Version 1.0 released 26/11/1997
 %-------------------------- identification ---------------------
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ociamthesis}[2010/11/22 v2.2 OCIAM thesis class]
+\ProvidesClass{thesis}[2010/11/22 v2.2 OCIAM thesis class]
 %-------------------------- initial code -----------------------
 \def\logoversion{squarelogo}
 \DeclareOption{beltcrest}{\def\logoversion{beltcrest}}
@@ -95,26 +95,74 @@
 %define title page layout
 \renewcommand{\maketitle}{%
 \begin{alwayssingle}
-    \renewcommand{\footnotesize}{\small}
-    \renewcommand{\footnoterule}{\relax}
+    %\renewcommand{\footnotesize}{\small}
+    %\renewcommand{\footnoterule}{\relax}
     \thispagestyle{empty}
-  \null\vfill
+  %\null\vfill
   \begin{center}
-    { \Huge {\bfseries {\@title}} \par}
-{\large \vspace*{40mm} {\logo \par} \vspace*{25mm}}
-    {{\Large \@author} \par}
-{\large \vspace*{1ex}
-    {{\@college} \par}
-\vspace*{1ex}
-    {Ausgef\"uhrt am Atominstitut der Technischen Universit\"at Wien\\
-in Verbindung mit dem Institut f\"ur Hochenergiephysik (HEPHY)\\
-der \"Osterreichischen Akademie der Wissenschaften}
-\vspace*{25mm}
-    { \par}
-\vspace*{1ex}
-    {\it {\@degree} \par}
-\vspace*{2ex}
-    {\@degreedate}}
+  
+%    { \Huge {\bfseries {\@title}} \par}
+%{\large \vspace*{40mm} {\logo \par} \vspace*{25mm}}
+ %   {{\Large \@author} \par}
+%{\large \vspace*{1ex}
+  %  {{\@college} \par}
+%\vspace*{1ex}
+ %   {Ausgef\"uhrt am Atominstitut der Technischen Universit\"at Wien\\
+%in Verbindung mit dem Institut f\"ur Hochenergiephysik (HEPHY)\\
+%der \"Osterreichischen Akademie der Wissenschaften}
+%\vspace*{25mm}
+  %  { \par}
+%\vspace*{1ex}
+  %  {\it {\@degree} \par}
+%\vspace*{2ex}
+  %  {\@degreedate}}
+ % Logo
+\vspace{-1cm} 
+
+\includegraphics[height=3.5cm]{TU_Wien_Logo}
+
+\vspace{0.1cm}
+
+% Heading
+{\huge \textsc{Dissertation}}\\[0.7cm]
+
+% Title
+\rule{\linewidth}{0.5mm} \\[0.4cm]
+
+{ \huge \bfseries 
+Search for supersymmetry \\[0.1cm]
+ in the single lepton final state \\[0.1cm]
+ in 13 TeV pp collisions with the CMS experiment \\[0.4cm]
+}
+
+\rule{\linewidth}{0.5mm} \\[1.0cm]
+
+ausgef\"uhrt zum Zwecke der Erlangung des akademischen Grades einer Doktorin der technischen Wissenschaften unter der Leitung von\\[0.2cm]
+
+% Advisors
+\textsc{Univ.Prof. Dipl.-Ing. Dr.techn. Jochen Schieck}\\[0.1cm]
+und \\[0.1cm]
+\textsc{Dr. Robert Sch\"ofbeck} \\[0.3cm]
+
+% Institute
+am Institut f\"ur Hochenergiephysik (HEPHY) \\
+der \"Osterreichischen Akademie der Wissenschaften (\"OAW) \\
+und am Atominstitut (E141)\\[0.3cm]
+ 
+eingereicht an der\\
+{\sc Technischen Universit\"at Wien\\ Fakult\"at f\"ur Physik} 
+ 
+% Author
+von\\[0.1cm]
+\textsc{M.S. Ece A\d{s}ilar}\\
+Matrikelnummer: 1428489\\[0.4cm]
+
+%\vfill % This is a space that elastically goes down to what remains of
+       % the page...
+% Bottom of the page
+Wien, am 20. August 2017
+ 
+ 
   \end{center}
   \null\vfill
 \end{alwayssingle}}
@@ -244,6 +292,41 @@ der \"Osterreichischen Akademie der Wissenschaften}
   \end{center}}
 {\end{alwayssingle}}
 
+%%%%Introdution%%%
+\newenvironment{Introduction} {\begin{alwayssingle} \thispagestyle{empty}
+  \begin{center}
+  \vspace*{1.5cm}
+  {\Large \bfseries  Introduction}
+  \end{center}
+  \vspace{0.5cm}
+   \begin{quote}}
+{\end{quote}\end{alwayssingle}}
+
+
+\newenvironment{abbreviations} {\begin{alwayssingle} \thispagestyle{empty}
+  \begin{center}
+  \vspace*{1.5cm}
+  {\Large \bfseries  Abbreviations}
+  \end{center}
+  \vspace{0.5cm}}
+{\end{alwayssingle}}
+
+
+%\newcommand{\abbrevname}{List of Abbreviations}
+%\providecaptionname{english,british,american}{\abbrevname}{List of Abbreviations}
+%\providecaptionname{ngerman,german,austrian,naustrian}{\abbrevname}{Abk\"urzungsverzeichnis}
+%\newenvironment{abbreviations}{ m }{
+%	\ifbool{nolistspace}{\begingroup\singlespacing}{}
+%	\ifbool{listtoc}{\addchap{\abbrevname}}{\addchap*{\abbrevname}}
+%	\begin{longtable}{1}
+%	}
+%	{
+%	\end{longtable}
+%	\addtocounter{table}{-1}% Don't count this table as one of the document tables
+%	\ifbool{nolistspace}{\endgroup}{}
+%}
+
+
 %ROMANPAGES
 %
 % The romanpages environment set the page numbering to lowercase roman one
@@ -255,20 +338,25 @@ der \"Osterreichischen Akademie der Wissenschaften}
 {\cleardoublepage\renewcommand{\thepage}{\arabic{page}}\setcounter{page}{1}}
 
 %Glossary
-\renewenvironment{glossary} {\begin{alwayssingle} \thispagestyle{empty}
-  \begin{center}
-  \vspace*{1.5cm}
-  {\Large \bfseries  Abbreviations}
-  \end{center}
-  \vspace{0.5cm}
-   \begin{quote}}
-{\end{quote}\end{alwayssingle}}
+%\renewenvironment{glossary}
+%{\begin{alwayssingle} \thispagestyle{empty}
+ % \begin{center}
+ % %\vspace*{1.5cm}
+  %{\Large \bfseries  Abbreviations}
+ % \end{center}
+%  %\vspace{0.5cm}
+ %  \begin{quote}
+% }
+%{\end{quote}\end{alwayssingle}}
+
+
+
 
 %bibliography
-\def\thebibliography{
-\newpage
-\@ifnextchar[{\@themybib}{\@themybib[]}
-}
-\def\endthebibliography{\endlist}
+%\def\thebibliography{
+%\newpage
+%\@ifnextchar[{\@themybib}{\@themybib[]}
+%}
+%\def\endthebibliography{\endlist}
 
 
