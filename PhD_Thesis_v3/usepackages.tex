@@ -1,0 +1,105 @@
+% Set borders
+\usepackage[left=1.8in, right=1.2in, top=1.5in, bottom=0.95in, includefoot, headheight=13.6pt]{geometry}
+%\usepackage[right=1.5in]{geometry}
+
+% Fix paragraph indentation to no indent, and skip one line instead. 
+\parindent 0pt
+\parskip 1ex
+
+% Caption text style
+\usepackage{caption}
+\DeclareCaptionStyle{normal}
+{
+  font={normalsize}, textfont={normal}, labelfont={bf}, margin=20pt, figureposition=bottom, tableposition=top
+}
+
+\captionsetup{style=normal}
+\setlength{\abovecaptionskip}{0pt}
+
+% Fix hyperrefs
+\usepackage[figure,table]{hypcap} % Correct a problem with hyperref
+\makeatletter
+\newcommand\org@hypertarget{}
+\let\org@hypertarget\hypertarget
+\renewcommand\hypertarget[2]{%
+\Hy@raisedlink{\org@hypertarget{#1}{}}#2%
+} \makeatother
+
+% Disable single lines at the start of a paragraph (Schusterjungen)
+\clubpenalty = 10000
+% Disable single lines at the end of a paragraph (Hurenkinder)
+\widowpenalty = 10000 \displaywidowpenalty = 1000
+
+% This is so you can use utf8 encoded characters in your document
+\usepackage[utf8]{inputenc}
+
+% This is to get the correct font encoding
+\usepackage[T1]{fontenc} 
+
+% This loads hyphenations for german and english (autmatic adding of
+% \- to long words
+\usepackage[german,english]{babel}
+
+% This is so we can make the appendix section begin and end
+\usepackage[toc,page]{appendix}
+
+% Use graphics with pdftex option
+\usepackage[pdftex]{graphicx}
+
+% font color
+\usepackage{color}
+
+% Use to get multiple figures in one figure float
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{floatrow}
+\floatsetup[table]{style=plaintop} %to put table caption back on top
+%\usepackage{subfigure}
+\usepackage{sidecap}
+\usepackage{float}
+\usepackage{tikz}
+\restylefloat{figure}
+%\usepackage[section] {placeins}
+
+% Better continued figures
+\usepackage[countmax]{subfloat}
+
+% Better tables
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{ltxtable}
+
+% This is useful to make a table cell span more than one row, much like multicol
+\usepackage{multirow}
+
+% This is useful for typesetting particle names, see
+% http://www.tex.ac.uk/tex-archive/help/Catalogue/entries/hepparticles.html
+\usepackage{hepparticles}
+
+% To nice print acronyms
+% \ac{atlas}
+\usepackage[printonlyused,withpage]{acronym}
+
+% Typeset web links proper
+\usepackage{url} 
+
+%math
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{braket}
+
+%rotating stuff
+\usepackage{rotating}
+
+%table
+\usepackage{longtable}
+\usepackage{lscape}
+
+\usepackage{afterpage}
+
+%enumeration
+\usepackage{enumitem}
+
+\usepackage{blindtext} % for dummy text
+
+\usepackage{ifthen}

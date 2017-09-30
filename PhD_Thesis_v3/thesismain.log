@@ -1,0 +1,3856 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2017.7.13)  29 SEP 2017 19:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesismain.tex
+(./thesismain.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./thesis.cls
+Document Class: thesis 2010/11/22 v2.2 OCIAM thesis class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 1998/08/17 v1.1c Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `final' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
+.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count92
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count93
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/kpfonts.sty
+Package: kpfonts  2010/08/20 v3.31
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+Package textcomp Info: Changing ? sub-encoding to TS1/0 on input line 72.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen110
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen111
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip11
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks16
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks17
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+\c@mv@rm=\count111
+\c@mv@boldrm=\count112
+\c@mv@sf=\count113
+\c@mv@boldsf=\count114
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `rm'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldrm'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sf'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldsf'
+(Font)                  OT1/cmr/m/n --> OT1/jkp/m/n on input line 354.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 355.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `rm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 357.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldrm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 358.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `sf'
+(Font)                  OT1/jkp/m/n --> OT1/jkpss/m/n on input line 359.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldsf'
+(Font)                  OT1/jkp/m/n --> OT1/jkpss/b/n on input line 360.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 364.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 365.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `rm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 366.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `boldrm'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 367.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `sf'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/m/n on input line 368.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `boldsf'
+(Font)                  OT1/jkp/m/n --> OT1/jkp/b/n on input line 369.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `rm'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldrm'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `sf'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldsf'
+(Font)                  OT1/cmr/bx/n --> OT1/jkp/b/n on input line 378.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 379.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `rm'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 381.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldrm'
+(Font)                  OT1/jkp/b/n --> OT1/jkp/b/n on input line 382.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `sf'
+(Font)                  OT1/jkp/b/n --> OT1/jkpss/b/n on input line 383.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `boldsf'
+(Font)                  OT1/jkp/b/n --> OT1/jkpss/b/n on input line 384.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `rm'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldrm'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `sf'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldsf'
+(Font)                  OT1/cmr/m/it --> OT1/jkp/m/it on input line 390.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/b/it on input line 391.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `rm'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/m/it on input line 393.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldrm'
+(Font)                  OT1/jkp/m/it --> OT1/jkp/b/it on input line 394.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `sf'
+(Font)                  OT1/jkp/m/it --> OT1/jkpss/m/it on input line 395.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldsf'
+(Font)                  OT1/jkp/m/it --> OT1/jkpss/b/it on input line 396.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `rm'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldrm'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `sf'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldsf'
+(Font)                  OT1/cmss/m/n --> OT1/jkpss/m/n on input line 401.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 402.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `rm'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/m/n on input line 403.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldrm'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 404.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `sf'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/m/n on input line 405.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `boldsf'
+(Font)                  OT1/jkpss/m/n --> OT1/jkpss/b/n on input line 406.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `rm'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldrm'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `sf'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldsf'
+(Font)                  OT1/cmtt/m/n --> OT1/jkptt/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 411.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `rm'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/m/n on input line 412.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldrm'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 413.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `sf'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/m/n on input line 414.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `boldsf'
+(Font)                  OT1/jkptt/m/n --> OT1/jkptt/b/n on input line 415.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `rm'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldrm'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sf'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldsf'
+(Font)                  OML/cmm/m/it --> OML/jkp/m/it on input line 423.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/jkp/m/it --> OML/jkp/bx/it on input line 424.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `rm'
+(Font)                  OML/jkp/m/it --> OML/jkp/m/it on input line 426.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldrm'
+(Font)                  OML/jkp/m/it --> OML/jkp/bx/it on input line 427.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `sf'
+(Font)                  OML/jkp/m/it --> OML/jkpss/m/it on input line 428.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldsf'
+(Font)                  OML/jkp/m/it --> OML/jkpss/bx/it on input line 429.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/bx/it on input line 439.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `rm'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/m/it on input line 441.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `boldrm'
+(Font)                  U/jkpmia/m/it --> U/jkpmia/bx/it on input line 442.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `sf'
+(Font)                  U/jkpmia/m/it --> U/jkpssmia/m/it on input line 443.
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `boldsf'
+(Font)                  U/jkpmia/m/it --> U/jkpssmia/bx/it on input line 444.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `rm'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldrm'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sf'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldsf'
+(Font)                  OMS/cmsy/m/n --> OMS/jkp/m/n on input line 456.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 457.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `rm'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/m/n on input line 459.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldrm'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 460.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `sf'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/m/n on input line 461.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldsf'
+(Font)                  OMS/jkp/m/n --> OMS/jkp/bx/n on input line 462.
+\symAMSa=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 476.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `rm'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/m/n on input line 477.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldrm'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 478.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `sf'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/m/n on input line 479.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldsf'
+(Font)                  U/jkpsya/m/n --> U/jkpsya/bx/n on input line 480.
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/bx/n on input line 529.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `rm'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/m/n on input line 530.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldrm'
+(Font)                  U/jkpsyb/m/n --> U/jkpsyb/bx/n on input line 531.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `sf'
+(Font)                  U/jkpsyb/m/n --> U/jkpsssyb/m/n on input line 532.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldsf'
+(Font)                  U/jkpsyb/m/n --> U/jkpsssyb/bx/n on input line 533.
+\symsymbolsC=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 549.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `rm'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/m/n on input line 551.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `boldrm'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 552.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `sf'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/m/n on input line 553.
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `boldsf'
+(Font)                  U/jkpsyc/m/n --> U/jkpsyc/bx/n on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `bold'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 583.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `rm'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/m/n on input line 585.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `boldrm'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 586.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `sf'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/m/n on input line 587.
+LaTeX Font Info:    Overwriting math alphabet `\mathscr' in version `boldsf'
+(Font)                  U/jkpsyd/m/n --> U/jkpsyd/bx/n on input line 588.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `rm'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldrm'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `sf'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldsf'
+(Font)                  OMX/cmex/m/n --> OMX/jkp/m/n on input line 598.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/bx/n on input line 599.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `rm'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/m/n on input line 601.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldrm'
+(Font)                  OMX/jkp/m/n --> OMX/jkp/bx/n on input line 602.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `sf'
+(Font)                  OMX/jkp/m/n --> OMX/jkpss/m/n on input line 603.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `boldsf'
+(Font)                  OMX/jkp/m/n --> OMX/jkpss/bx/n on input line 604.
+\symlargesymbolsA=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 615.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `rm'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/m/n on input line 617.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `boldrm'
+
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 618.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `sf'
+(Font)                  U/jkpexa/m/n --> U/jkpexa/m/n on input line 619.
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `boldsf'
+
+(Font)                  U/jkpexa/m/n --> U/jkpexa/bx/n on input line 620.
+LaTeX Info: Redefining \not on input line 1580.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/jkpsya/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/jkpsya/bx/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `rm'
+(Font)                  U/jkpsya/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldrm'
+(Font)                  U/jkpsya/bx/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `sf'
+(Font)                  U/jkpsya/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `boldsf'
+(Font)                  U/jkpsya/bx/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/jkpsyb/m/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/jkpsyb/bx/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `rm'
+(Font)                  U/jkpsyb/m/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldrm'
+(Font)                  U/jkpsyb/bx/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `sf'
+(Font)                  U/jkpsssyb/m/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `boldsf'
+(Font)                  U/jkpsssyb/bx/n --> U/msb/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math delimiter \ulcorner on input line 74.
+LaTeX Font Info:    Redeclaring math delimiter \urcorner on input line 75.
+LaTeX Font Info:    Redeclaring math delimiter \llcorner on input line 76.
+LaTeX Font Info:    Redeclaring math delimiter \lrcorner on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \lozenge on input line 142.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \boxplus on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \boxtimes on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \centerdot on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \blacklozenge on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \circlearrowright on input line 52.
+
+LaTeX Font Info:    Redeclaring math symbol \circlearrowleft on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \leftrightharpoons on input line 56
+.
+LaTeX Font Info:    Redeclaring math symbol \boxminus on input line 57.
+LaTeX Font Info:    Redeclaring math symbol \Vdash on input line 58.
+LaTeX Font Info:    Redeclaring math symbol \Vvdash on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \twoheadrightarrow on input line 61
+.
+LaTeX Font Info:    Redeclaring math symbol \twoheadleftarrow on input line 62.
+
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+
+LaTeX Font Info:    Redeclaring math symbol \upuparrows on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \downdownarrows on input line 66.
+LaTeX Font Info:    Redeclaring math symbol \upharpoonright on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonright on input line 69.
+
+LaTeX Font Info:    Redeclaring math symbol \upharpoonleft on input line 70.
+LaTeX Font Info:    Redeclaring math symbol \downharpoonleft on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \rightarrowtail on input line 72.
+LaTeX Font Info:    Redeclaring math symbol \leftarrowtail on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrows on input line 74.
+LaTeX Font Info:    Redeclaring math symbol \rightleftarrows on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lsh on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Rsh on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \leftrightsquigarrow on input line 
+79.
+LaTeX Font Info:    Redeclaring math symbol \looparrowleft on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \looparrowright on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \circeq on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \succsim on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \gtrsim on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \gtrapprox on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \multimap on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \therefore on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \because on input line 88.
+LaTeX Font Info:    Redeclaring math symbol \doteqdot on input line 89.
+LaTeX Font Info:    Redeclaring math symbol \triangleq on input line 91.
+LaTeX Font Info:    Redeclaring math symbol \precsim on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \lesssim on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \lessapprox on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \eqslantless on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \eqslantgtr on input line 96.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqprec on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \curlyeqsucc on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \preccurlyeq on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \leqq on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \lessgtr on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \backprime on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \risingdotseq on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \fallingdotseq on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \succcurlyeq on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \geqq on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \gtrless on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \bigstar on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \between on input line 118.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangledown on input line 11
+9.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 12
+1.
+LaTeX Font Info:    Redeclaring math symbol \vartriangle on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangle on input line 123.
+LaTeX Font Info:    Redeclaring math symbol \triangledown on input line 124.
+LaTeX Font Info:    Redeclaring math symbol \eqcirc on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \lesseqgtr on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \gtreqless on input line 127.
+LaTeX Font Info:    Redeclaring math symbol \lesseqqgtr on input line 128.
+LaTeX Font Info:    Redeclaring math symbol \gtreqqless on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \Rrightarrow on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \Lleftarrow on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \veebar on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \barwedge on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \doublebarwedge on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \measuredangle on input line 137.
+LaTeX Font Info:    Redeclaring math symbol \sphericalangle on input line 138.
+LaTeX Font Info:    Redeclaring math symbol \varpropto on input line 139.
+LaTeX Font Info:    Redeclaring math symbol \smallsmile on input line 140.
+LaTeX Font Info:    Redeclaring math symbol \smallfrown on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Subset on input line 142.
+LaTeX Font Info:    Redeclaring math symbol \Supset on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Cup on input line 144.
+LaTeX Font Info:    Redeclaring math symbol \Cap on input line 146.
+LaTeX Font Info:    Redeclaring math symbol \curlywedge on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \curlyvee on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \leftthreetimes on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \rightthreetimes on input line 151.
+
+LaTeX Font Info:    Redeclaring math symbol \subseteqq on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \supseteqq on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \bumpeq on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Bumpeq on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \lll on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \ggg on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \circledS on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \pitchfork on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \dotplus on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \backsim on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \backsimeq on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \circledcirc on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \circledast on input line 168.
+LaTeX Font Info:    Redeclaring math symbol \circleddash on input line 169.
+LaTeX Font Info:    Redeclaring math symbol \lvertneqq on input line 171.
+LaTeX Font Info:    Redeclaring math symbol \gvertneqq on input line 172.
+LaTeX Font Info:    Redeclaring math symbol \nleq on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \ngeq on input line 174.
+LaTeX Font Info:    Redeclaring math symbol \nless on input line 175.
+LaTeX Font Info:    Redeclaring math symbol \ngtr on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \nprec on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \nsucc on input line 178.
+LaTeX Font Info:    Redeclaring math symbol \lneqq on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \gneqq on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \lneq on input line 183.
+LaTeX Font Info:    Redeclaring math symbol \gneq on input line 184.
+LaTeX Font Info:    Redeclaring math symbol \npreceq on input line 185.
+LaTeX Font Info:    Redeclaring math symbol \nsucceq on input line 186.
+LaTeX Font Info:    Redeclaring math symbol \precnsim on input line 187.
+LaTeX Font Info:    Redeclaring math symbol \succnsim on input line 188.
+LaTeX Font Info:    Redeclaring math symbol \lnsim on input line 189.
+LaTeX Font Info:    Redeclaring math symbol \gnsim on input line 190.
+LaTeX Font Info:    Redeclaring math symbol \nleqq on input line 191.
+LaTeX Font Info:    Redeclaring math symbol \ngeqq on input line 192.
+LaTeX Font Info:    Redeclaring math symbol \precneqq on input line 193.
+LaTeX Font Info:    Redeclaring math symbol \succneqq on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \precnapprox on input line 195.
+LaTeX Font Info:    Redeclaring math symbol \succnapprox on input line 196.
+LaTeX Font Info:    Redeclaring math symbol \lnapprox on input line 197.
+LaTeX Font Info:    Redeclaring math symbol \gnapprox on input line 198.
+LaTeX Font Info:    Redeclaring math symbol \nsim on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \ncong on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \diagup on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \diagdown on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneq on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteqq on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteqq on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \supsetneqq on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneqq on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \varsupsetneqq on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \subsetneq on input line 211.
+LaTeX Font Info:    Redeclaring math symbol \supsetneq on input line 212.
+LaTeX Font Info:    Redeclaring math symbol \nsubseteq on input line 213.
+LaTeX Font Info:    Redeclaring math symbol \nsupseteq on input line 214.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nmid on input line 216.
+LaTeX Font Info:    Redeclaring math symbol \nshortmid on input line 217.
+LaTeX Font Info:    Redeclaring math symbol \nshortparallel on input line 218.
+LaTeX Font Info:    Redeclaring math symbol \nvdash on input line 219.
+LaTeX Font Info:    Redeclaring math symbol \nVdash on input line 220.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nVDash on input line 222.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglerighteq on input line 223
+.
+LaTeX Font Info:    Redeclaring math symbol \ntrianglelefteq on input line 224.
+
+LaTeX Font Info:    Redeclaring math symbol \ntriangleleft on input line 225.
+LaTeX Font Info:    Redeclaring math symbol \ntriangleright on input line 226.
+LaTeX Font Info:    Redeclaring math symbol \nleftarrow on input line 227.
+LaTeX Font Info:    Redeclaring math symbol \nrightarrow on input line 228.
+LaTeX Font Info:    Redeclaring math symbol \nLeftarrow on input line 229.
+LaTeX Font Info:    Redeclaring math symbol \nRightarrow on input line 230.
+LaTeX Font Info:    Redeclaring math symbol \nLeftrightarrow on input line 231.
+
+LaTeX Font Info:    Redeclaring math symbol \nleftrightarrow on input line 232.
+
+LaTeX Font Info:    Redeclaring math symbol \divideontimes on input line 233.
+LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 234.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \Finv on input line 236.
+LaTeX Font Info:    Redeclaring math symbol \Game on input line 237.
+LaTeX Font Info:    Redeclaring math symbol \eth on input line 240.
+LaTeX Font Info:    Redeclaring math symbol \eqsim on input line 241.
+LaTeX Font Info:    Redeclaring math symbol \beth on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \gimel on input line 243.
+LaTeX Font Info:    Redeclaring math symbol \daleth on input line 244.
+LaTeX Font Info:    Redeclaring math symbol \lessdot on input line 245.
+LaTeX Font Info:    Redeclaring math symbol \gtrdot on input line 246.
+LaTeX Font Info:    Redeclaring math symbol \ltimes on input line 247.
+LaTeX Font Info:    Redeclaring math symbol \rtimes on input line 248.
+LaTeX Font Info:    Redeclaring math symbol \shortmid on input line 249.
+LaTeX Font Info:    Redeclaring math symbol \shortparallel on input line 250.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \thicksim on input line 252.
+LaTeX Font Info:    Redeclaring math symbol \thickapprox on input line 253.
+LaTeX Font Info:    Redeclaring math symbol \approxeq on input line 254.
+LaTeX Font Info:    Redeclaring math symbol \succapprox on input line 255.
+LaTeX Font Info:    Redeclaring math symbol \precapprox on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+
+LaTeX Font Info:    Redeclaring math symbol \digamma on input line 259.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \Bbbk on input line 261.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip47
+\LTright=\skip48
+\LTpre=\skip49
+\LTpost=\skip50
+\LTchunksize=\count115
+\LTcapwidth=\dimen119
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count116
+\LT@rows=\count117
+\c@LT@tables=\count118
+\c@LT@chunks=\count119
+\LT@p@ftn=\toks20
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2008/07/16 v60 Package minitoc (JPFD)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 60 ***.
+\tf@mtc=\write3
+\mtcindent=\skip51
+\mtcskipamount=\skip52
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks21
+\mtc@strutbox=\box32
+\mtc@hstrutbox=\box33
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `thesismain.mtc0'.
+
+\openout3 = `thesismain.mtc'.
+
+
+(./thesismain.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc0'.
+
+\c@mtc=\count120
+\c@minitocdepth=\count121
+\c@ptc=\count122
+\c@parttocdepth=\count123
+\ptcindent=\skip53
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen120
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip54
+\subfigcapskip=\skip55
+\subfigcaptopadj=\dimen121
+\subfigbottomskip=\skip56
+\subfigcapmargin=\dimen122
+\subfiglabelskip=\skip57
+\c@subfigure=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@lotdepth=\count127
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip58
+\subfig@bottom=\skip59
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count128
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box34
+\rot@mess@toks=\toks22
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip62
+\bibsep=\skip63
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count129
+)
+(./thesismain.aux (./dedication.aux) (./acknowlegements.aux) (./abstract.aux)
+(./appendix_samp.aux) (./appendix_CRplots.aux) (./appendix_nuisances.aux)
+(./abbreviations.aux)
+
+Package natbib Warning: Citation `JEC' multiply defined.
+
+)
+\openout1 = `thesismain.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 65.
+LaTeX Font Info:    Try loading font information for OML+jkp on input line 65.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/omljkp.fd
+File: omljkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 65.
+LaTeX Font Info:    Try loading font information for OMS+jkp on input line 65.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/omsjkp.fd
+File: omsjkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 65.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 65.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/omxjkp.fd
+File: omxjkp.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 65.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 65.
+
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
+File: ujkpexa.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 65.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 65.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count130
+\scratchdimen=\dimen123
+\scratchbox=\box35
+\nofMPsegments=\count131
+\nofMParguments=\count132
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen124
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box36
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+Package hyperref Info: Link coloring ON on input line 65.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count136
+)
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
+
+(./thesismain.out) (./thesismain.out)
+\@outlinefile=\write4
+\openout4 = `thesismain.out'.
+
+\c@minilofdepth=\count137
+\c@minilotdepth=\count138
+\c@partlofdepth=\count139
+\c@partlotdepth=\count140
+\c@sectlofdepth=\count141
+\c@sectlotdepth=\count142
+
+<TU_Wien_Logo.pdf, id=301, 845.1575pt x 597.23125pt>
+File: TU_Wien_Logo.pdf Graphic file (type pdf)
+ <use TU_Wien_Logo.pdf>
+Package pdftex.def Info: TU_Wien_Logo.pdf used on input line 80.
+(pdftex.def)             Requested size: 140.91512pt x 99.58464pt.
+
+[1
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./TU_Wi
+en_Logo.pdf>] [2]
+\openout2 = `dedication.aux'.
+
+ (./dedication.tex [3
+
+
+])
+\openout2 = `acknowlegements.aux'.
+
+ (./acknowlegements.tex
+Overfull \hbox (0.50058pt too wide) in paragraph at lines 2--16
+\OT1/jkp/m/n/10.95 Office col-leagues: Daniel Spitzbart, Navid k. Rad, Fed-eric
+o Am-br-ogy, Matheusz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--16
+
+ []
+
+[4
+
+
+
+])
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 7.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 7.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+) [5
+
+
+
+]) [6
+
+
+]
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM thesismain.toc on input line 87.
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc1.
+\openout3 = `thesismain.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc2.
+\openout3 = `thesismain.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc3.
+\openout3 = `thesismain.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc4.
+\openout3 = `thesismain.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc5.
+\openout3 = `thesismain.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc6.
+\openout3 = `thesismain.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc7.
+\openout3 = `thesismain.mtc7'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc8.
+\openout3 = `thesismain.mtc8'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc9.
+\openout3 = `thesismain.mtc9'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc10.
+\openout3 = `thesismain.mtc10'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc11.
+\openout3 = `thesismain.mtc11'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing thesismain.mtc12.
+\openout3 = `thesismain.mtc12'.
+
+
+(./thesismain.toc [1
+
+] [2])
+\tf@toc=\write5
+\openout5 = `thesismain.toc'.
+
+ [3] [4
+
+] (./commands.tex) (./superSymmetry.tex
+Chapter 1.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc1) <Plots/SM/SM_eng.pdf, id=450, 1027.84pt x 770.88pt>
+File: Plots/SM/SM_eng.pdf Graphic file (type pdf)
+
+<use Plots/SM/SM_eng.pdf>
+Package pdftex.def Info: Plots/SM/SM_eng.pdf used on input line 30.
+(pdftex.def)             Requested size: 346.89731pt x 260.17842pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 
+      [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 C
+      onfinement: [2]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.62 
+      [3 <./Plots/SM/SM_eng.pdf>] (./smQFT.tex
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ¨ in font jkpmn7t!
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 \begin{eqnarray}
+                      [4]
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 24.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
+File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 
+      [5]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 75.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.91 \end{eqnarray}
+                    [6])
+
+LaTeX Warning: Command \O invalid in math mode on input line 71.
+
+<Plots/SM/experiments.pdf, id=806, 1027.84pt x 770.88pt>
+File: Plots/SM/experiments.pdf Graphic file (type pdf)
+
+<use Plots/SM/experiments.pdf>
+Package pdftex.def Info: Plots/SM/experiments.pdf used on input line 78.
+(pdftex.def)             Requested size: 346.89731pt x 260.17842pt.
+ [7] [8 <./Plots/SM/experiments.pdf>]
+<Plots/BSM/GUTBoth.pdf, id=892, 1927.2pt x 1084.05pt>
+File: Plots/BSM/GUTBoth.pdf Graphic file (type pdf)
+
+<use Plots/BSM/GUTBoth.pdf>
+Package pdftex.def Info: Plots/BSM/GUTBoth.pdf used on input line 108.
+(pdftex.def)             Requested size: 346.89731pt x 195.12057pt.
+ [9]
+<Plots/feyndiagrams/susy_loop1.pdf, id=914, 197.73875pt x 119.44624pt>
+File: Plots/feyndiagrams/susy_loop1.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/susy_loop1.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/susy_loop1.pdf used on input line 1
+26.
+(pdftex.def)             Requested size: 130.08731pt x 78.5814pt.
+
+<Plots/feyndiagrams/susy_loop2.pdf, id=915, 197.73875pt x 107.40125pt>
+File: Plots/feyndiagrams/susy_loop2.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/susy_loop2.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/susy_loop2.pdf used on input line 1
+27.
+(pdftex.def)             Requested size: 130.08731pt x 70.65723pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--144
+
+ []
+
+[10 <./Plots/BSM/GUTBoth.pdf> <./Plots/feyndiagrams/susy_loop1.pdf> <./Plots/fe
+yndiagrams/susy_loop2.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--164
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 167--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--182
+
+ []
+
+[12] [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
+
+ []
+
+[15] <Plots/feyndiagrams/T1tttt.pdf, id=1022, 201.75375pt x 131.49126pt>
+File: Plots/feyndiagrams/T1tttt.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/T1tttt.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/T1tttt.pdf used on input line 284.
+(pdftex.def)             Requested size: 151.76964pt x 98.91513pt.
+
+<Plots/feyndiagrams/T5qqqqWW.pdf, id=1023, 204.765pt x 133.49875pt>
+File: Plots/feyndiagrams/T5qqqqWW.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/T5qqqqWW.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/T5qqqqWW.pdf used on input line 286
+.
+(pdftex.def)             Requested size: 151.76964pt x 98.95454pt.
+ [16]
+
+LaTeX Warning: Command \O invalid in math mode on input line 301.
+
+<Plots/feyndiagrams/gluinoprod_sch1.pdf, id=1034, 184.69pt x 134.5025pt>
+File: Plots/feyndiagrams/gluinoprod_sch1.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_sch1.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_sch1.pdf used on input l
+ine 304.
+(pdftex.def)             Requested size: 78.04842pt x 56.83955pt.
+
+<Plots/feyndiagrams/gluinoprod_tch1.pdf, id=1035, 221.82875pt x 106.3975pt>
+File: Plots/feyndiagrams/gluinoprod_tch1.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_tch1.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_tch1.pdf used on input l
+ine 305.
+(pdftex.def)             Requested size: 108.405pt x 51.99397pt.
+
+<Plots/feyndiagrams/gluinoprod_uch1.pdf, id=1036, 221.82875pt x 106.3975pt>
+File: Plots/feyndiagrams/gluinoprod_uch1.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_uch1.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_uch1.pdf used on input l
+ine 306.
+(pdftex.def)             Requested size: 108.405pt x 51.99397pt.
+
+<Plots/feyndiagrams/gluinoprod_sch2.pdf, id=1037, 184.69pt x 134.5025pt>
+File: Plots/feyndiagrams/gluinoprod_sch2.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_sch2.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_sch2.pdf used on input l
+ine 308.
+(pdftex.def)             Requested size: 78.04842pt x 56.83955pt.
+
+<Plots/feyndiagrams/gluinoprod_tch2.pdf, id=1038, 221.82875pt x 106.3975pt>
+File: Plots/feyndiagrams/gluinoprod_tch2.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_tch2.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_tch2.pdf used on input l
+ine 309.
+(pdftex.def)             Requested size: 108.405pt x 51.99397pt.
+
+<Plots/feyndiagrams/gluinoprod_uch2.pdf, id=1039, 221.82875pt x 106.3975pt>
+File: Plots/feyndiagrams/gluinoprod_uch2.pdf Graphic file (type pdf)
+
+<use Plots/feyndiagrams/gluinoprod_uch2.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/gluinoprod_uch2.pdf used on input l
+ine 310.
+(pdftex.def)             Requested size: 108.405pt x 51.99397pt.
+
+<Plots/SUSY/gluino_xsec.pdf, id=1040, 569.12625pt x 385.44pt>
+File: Plots/SUSY/gluino_xsec.pdf Graphic file (type pdf)
+
+<use Plots/SUSY/gluino_xsec.pdf>
+Package pdftex.def Info: Plots/SUSY/gluino_xsec.pdf used on input line 318.
+(pdftex.def)             Requested size: 173.44534pt x 117.46786pt.
+
+<Plots/SUSY/XSectionPlots_13TeV.png, id=1041, 569.12625pt x 385.44pt>
+File: Plots/SUSY/XSectionPlots_13TeV.png Graphic file (type png)
+
+<use Plots/SUSY/XSectionPlots_13TeV.png>
+Package pdftex.def Info: Plots/SUSY/XSectionPlots_13TeV.png used on input line 
+319.
+(pdftex.def)             Requested size: 182.1196pt x 123.3433pt.
+
+<Plots/analysis/results/CMS-SUS-15-006_Figure_007-a.pdf, id=1052, 569.12625pt x
+ 546.04pt>
+File: Plots/analysis/results/CMS-SUS-15-006_Figure_007-a.pdf Graphic file (type
+ pdf)
+ <use Plots/analysis/results/CMS-SUS-15-006_Figure_007-a.pdf>
+Package pdftex.def Info: Plots/analysis/results/CMS-SUS-15-006_Figure_007-a.pdf
+ used on input line 337.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/results/CMS-SUS-15-006_Figure_007-b.pdf, id=1053, 569.12625pt x
+ 546.04pt>
+File: Plots/analysis/results/CMS-SUS-15-006_Figure_007-b.pdf Graphic file (type
+ pdf)
+ <use Plots/analysis/results/CMS-SUS-15-006_Figure_007-b.pdf>
+Package pdftex.def Info: Plots/analysis/results/CMS-SUS-15-006_Figure_007-b.pdf
+ used on input line 339.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/SM/SMxsec.png, id=1056, 568.1225pt x 732.7375pt>
+File: Plots/SM/SMxsec.png Graphic file (type png)
+
+<use Plots/SM/SMxsec.png>
+Package pdftex.def Info: Plots/SM/SMxsec.png used on input line 346.
+(pdftex.def)             Requested size: 303.53267pt x 391.4908pt.
+) (./experimentalSetup.tex [17 <./Plots/feyndiagrams/T1tttt.pdf> <./Plots/feynd
+iagrams/T5qqqqWW.pdf>] [18 <./Plots/feyndiagrams/gluinoprod_sch1.pdf> <./Plots/
+feyndiagrams/gluinoprod_tch1.pdf> <./Plots/feyndiagrams/gluinoprod_uch1.pdf> <.
+/Plots/feyndiagrams/gluinoprod_sch2.pdf> <./Plots/feyndiagrams/gluinoprod_tch2.
+pdf> <./Plots/feyndiagrams/gluinoprod_uch2.pdf> <./Plots/SUSY/gluino_xsec.pdf, 
+page is rotated 90 degrees> <./Plots/SUSY/XSectionPlots_13TeV.png>] [19 <./Plot
+s/analysis/results/CMS-SUS-15-006_Figure_007-a.pdf, page is rotated 90 degrees>
+ <./Plots/analysis/results/CMS-SUS-15-006_Figure_007-b.pdf, page is rotated 90 
+degrees>] [20 <./Plots/SM/SMxsec.png (PNG copy)>]
+Chapter 2.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc2)
+<Plots/LHC/cernComp.png, id=1253, 3643.6125pt x 2167.8591pt>
+File: Plots/LHC/cernComp.png Graphic file (type png)
+
+<use Plots/LHC/cernComp.png>
+Package pdftex.def Info: Plots/LHC/cernComp.png used on input line 19.
+(pdftex.def)             Requested size: 433.62pt x 257.98175pt.
+ [21
+
+] [22] [23 <./Plots/LHC/cernComp.png>] [24]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+<Plots/CMS/CMS.jpg, id=1295, 3189.9175pt x 2253.41875pt>
+File: Plots/CMS/CMS.jpg Graphic file (type jpg)
+
+<use Plots/CMS/CMS.jpg>
+Package pdftex.def Info: Plots/CMS/CMS.jpg used on input line 81.
+(pdftex.def)             Requested size: 390.25534pt x 275.6594pt.
+ [25] [26 <./Plots/CMS/CMS.jpg>]
+Overfull \hbox (3.27335pt too wide) in paragraph at lines 94--97
+\OT1/jkp/m/n/10.95 The suc-ceed-ing sub-detector to the in-ner tracker is the e
+lec-tro-mag-netic calorime-ter (ECAL).
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ô in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ô in font jkpmn7t!
+[27]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ô in font jkpmn7t!
+ [28] [29]) (./objectRecoIdentification.tex
+Overfull \hbox (4.75598pt too wide) in paragraph at lines 134--1
+\OT1/jkp/m/n/10.95 The fi-nal state par-ti-cles, which are emerg-ing af-ter the
+ gen-er-a-tion, show-er-ing and hadroniza-
+ []
+
+[30]
+Chapter 3.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc3) <Plots/CMS/CMS_Slice.png, id=1368, 995.72pt x 511.9125pt>
+File: Plots/CMS/CMS_Slice.png Graphic file (type png)
+
+<use Plots/CMS/CMS_Slice.png>
+Package pdftex.def Info: Plots/CMS/CMS_Slice.png used on input line 15.
+(pdftex.def)             Requested size: 433.62pt x 222.9301pt.
+ [31
+
+] [32] [33 <./Plots/CMS/CMS_Slice.png>]
+Overfull \hbox (38.96053pt too wide) in paragraph at lines 44--62
+ [] 
+ []
+
+[34] [35] [36]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ô in font jkpmn7t!
+ [37]
+<Plots/metphi/gammaEndcapPlus_Px_mult_withData_zoomedIn_PAS.pdf, id=1439, 569.1
+2625pt x 546.04pt>
+File: Plots/metphi/gammaEndcapPlus_Px_mult_withData_zoomedIn_PAS.pdf Graphic fi
+le (type pdf)
+
+<use Plots/metphi/gammaEndcapPlus_Px_mult_withData_zoomedIn_PAS.pdf>
+Package pdftex.def Info: Plots/metphi/gammaEndcapPlus_Px_mult_withData_zoomedIn
+_PAS.pdf used on input line 118.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<Plots/metphi/gammaEndcapPlus_Py_mult_withData_zoomedIn_PAS.pdf, id=1440, 569.1
+2625pt x 546.04pt>
+File: Plots/metphi/gammaEndcapPlus_Py_mult_withData_zoomedIn_PAS.pdf Graphic fi
+le (type pdf)
+
+<use Plots/metphi/gammaEndcapPlus_Py_mult_withData_zoomedIn_PAS.pdf>
+Package pdftex.def Info: Plots/metphi/gammaEndcapPlus_Py_mult_withData_zoomedIn
+_PAS.pdf used on input line 119.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<Plots/metphi/h0Barrel_Px_mult_withData_zoomedIn_PAS.pdf, id=1441, 569.12625pt 
+x 546.04pt>
+File: Plots/metphi/h0Barrel_Px_mult_withData_zoomedIn_PAS.pdf Graphic file (typ
+e pdf)
+ <use Plots/metphi/h0Barrel_Px_mult_withData_zoomedIn_PAS.pdf>
+Package pdftex.def Info: Plots/metphi/h0Barrel_Px_mult_withData_zoomedIn_PAS.pd
+f used on input line 120.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<Plots/metphi/h0Barrel_Py_mult_withData_zoomedIn_PAS.pdf, id=1442, 569.12625pt 
+x 546.04pt>
+File: Plots/metphi/h0Barrel_Py_mult_withData_zoomedIn_PAS.pdf Graphic file (typ
+e pdf)
+ <use Plots/metphi/h0Barrel_Py_mult_withData_zoomedIn_PAS.pdf>
+Package pdftex.def Info: Plots/metphi/h0Barrel_Py_mult_withData_zoomedIn_PAS.pd
+f used on input line 121.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./eventSel.tex [38] [39 <./Plots/metphi/gammaEndcapPlus_Px_mult_withData_zoo
+medIn_PAS.pdf, page is rotated 90 degrees> <./Plots/metphi/gammaEndcapPlus_Py_m
+ult_withData_zoomedIn_PAS.pdf, page is rotated 90 degrees> <./Plots/metphi/h0Ba
+rrel_Px_mult_withData_zoomedIn_PAS.pdf> <./Plots/metphi/h0Barrel_Py_mult_withDa
+ta_zoomedIn_PAS.pdf, page is rotated 90 degrees>]
+Chapter 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 1.
+
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc4)
+File: Plots/feyndiagrams/T5qqqqWW.pdf Graphic file (type pdf)
+ <use Plots/feyndiagrams/T5qqqqWW.pdf>
+Package pdftex.def Info: Plots/feyndiagrams/T5qqqqWW.pdf used on input line 8.
+(pdftex.def)             Requested size: 216.81pt x 141.3613pt.
+ [40
+
+] [41] [42]
+
+LaTeX Warning: Reference `fastsim' on page 43 undefined on input line 65.
+
+<Plots/signals/signal_scan.pdf, id=1662, 845.04686pt x 597.50786pt>
+File: Plots/signals/signal_scan.pdf Graphic file (type pdf)
+
+<use Plots/signals/signal_scan.pdf>
+Package pdftex.def Info: Plots/signals/signal_scan.pdf used on input line 73.
+(pdftex.def)             Requested size: 303.53267pt x 214.61945pt.
+ [43]
+
+LaTeX Warning: Reference `sec:PrimaryVert' on page 44 undefined on input line 1
+26.
+
+<Plots/analysis/pileUp/pileUp.pdf, id=1677, 569.12625pt x 546.04pt>
+File: Plots/analysis/pileUp/pileUp.pdf Graphic file (type pdf)
+
+<use Plots/analysis/pileUp/pileUp.pdf>
+Package pdftex.def Info: Plots/analysis/pileUp/pileUp.pdf used on input line 12
+8.
+(pdftex.def)             Requested size: 260.17464pt x 249.63171pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--133
+
+ []
+
+[44 <./Plots/signals/signal_scan.pdf, page is rotated 270 degrees>]
+<Plots/analysis/isoveto/Mt2_nobReq_LEP.pdf, id=1718, 569.12625pt x 546.04pt>
+File: Plots/analysis/isoveto/Mt2_nobReq_LEP.pdf Graphic file (type pdf)
+
+<use Plots/analysis/isoveto/Mt2_nobReq_LEP.pdf>
+Package pdftex.def Info: Plots/analysis/isoveto/Mt2_nobReq_LEP.pdf used on inpu
+t line 156.
+(pdftex.def)             Requested size: 130.08731pt x 124.81169pt.
+
+<Plots/analysis/isoveto/Mt2_nobReq_HAD.pdf, id=1719, 569.12625pt x 546.04pt>
+File: Plots/analysis/isoveto/Mt2_nobReq_HAD.pdf Graphic file (type pdf)
+
+<use Plots/analysis/isoveto/Mt2_nobReq_HAD.pdf>
+Package pdftex.def Info: Plots/analysis/isoveto/Mt2_nobReq_HAD.pdf used on inpu
+t line 158.
+(pdftex.def)             Requested size: 130.08731pt x 124.81169pt.
+
+<Plots/analysis/isoveto/Mt2_nobReq_ALL.pdf, id=1720, 569.12625pt x 546.04pt>
+File: Plots/analysis/isoveto/Mt2_nobReq_ALL.pdf Graphic file (type pdf)
+
+<use Plots/analysis/isoveto/Mt2_nobReq_ALL.pdf>
+Package pdftex.def Info: Plots/analysis/isoveto/Mt2_nobReq_ALL.pdf used on inpu
+t line 160.
+(pdftex.def)             Requested size: 130.08731pt x 124.81169pt.
+
+<Plots/analysis/cutflow/electron.pdf, id=1722, 569.12625pt x 547.04375pt>
+File: Plots/analysis/cutflow/electron.pdf Graphic file (type pdf)
+
+<use Plots/analysis/cutflow/electron.pdf>
+Package pdftex.def Info: Plots/analysis/cutflow/electron.pdf used on input line
+ 194.
+(pdftex.def)             Requested size: 195.12767pt x 187.55333pt.
+
+<Plots/analysis/cutflow/muon.pdf, id=1723, 569.12625pt x 547.04375pt>
+File: Plots/analysis/cutflow/muon.pdf Graphic file (type pdf)
+
+<use Plots/analysis/cutflow/muon.pdf>
+Package pdftex.def Info: Plots/analysis/cutflow/muon.pdf used on input line 195
+.
+(pdftex.def)             Requested size: 195.12767pt x 187.55333pt.
+ [45] [46 <./Plots/analysis/pileUp/pileUp.pdf, page is rotated 90 degrees>] [47
+ <./Plots/analysis/isoveto/Mt2_nobReq_LEP.pdf, page is rotated 90 degrees> <./P
+lots/analysis/isoveto/Mt2_nobReq_HAD.pdf, page is rotated 90 degrees> <./Plots/
+analysis/isoveto/Mt2_nobReq_ALL.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Reference `CMSlumi' on page 48 undefined on input line 201.
+
+
+Overfull \hbox (34.2059pt too wide) in paragraph at lines 208--236
+ [] 
+ []
+
+[48]
+<Plots/trigger/LT_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf, id=1854, 569.1
+2625pt x 552.0625pt>
+File: Plots/trigger/LT_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf Graphic fi
+le (type pdf)
+
+<use Plots/trigger/LT_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/LT_PFJet450_EffFit_test_HLT_EleORORHLT_M
+etOR.pdf used on input line 253.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/trigger/LT_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf, id=1855, 569.12
+625pt x 552.0625pt>
+File: Plots/trigger/LT_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf Graphic fil
+e (type pdf)
+
+<use Plots/trigger/LT_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/LT_PFJet450_EffFit_test_HLT_MuORORHLT_Me
+tOR.pdf used on input line 254.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/trigger/HT_IsoEle27T_EffFit_test_HLT_Ele105ORHLT_Ele115ORHLT_Ele50PFJet1
+65ORHLT_EleHT400ORHLT_EleHT350ORHLT_MetOR.pdf, id=1858, 569.12625pt x 552.0625p
+t>
+File: Plots/trigger/HT_IsoEle27T_EffFit_test_HLT_Ele105ORHLT_Ele115ORHLT_Ele50P
+FJet165ORHLT_EleHT400ORHLT_EleHT350ORHLT_MetOR.pdf Graphic file (type pdf)
+
+<use Plots/trigger/HT_IsoEle27T_EffFit_test_HLT_Ele105ORHLT_Ele115ORHLT_Ele50PF
+Jet165ORHLT_EleHT400ORHLT_EleHT350ORHLT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/HT_IsoEle27T_EffFit_test_HLT_Ele105ORHLT
+_Ele115ORHLT_Ele50PFJet165ORHLT_EleHT400ORHLT_EleHT350ORHLT_MetOR.pdf used on i
+nput line 267.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/trigger/HT_IsoMu24_EffFit_test_HLT_Mu50ORHLT_MuHT400ORHLT_MuHT350ORHLT_M
+etOR.pdf, id=1859, 569.12625pt x 552.0625pt>
+File: Plots/trigger/HT_IsoMu24_EffFit_test_HLT_Mu50ORHLT_MuHT400ORHLT_MuHT350OR
+HLT_MetOR.pdf Graphic file (type pdf)
+
+<use Plots/trigger/HT_IsoMu24_EffFit_test_HLT_Mu50ORHLT_MuHT400ORHLT_MuHT350ORH
+LT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/HT_IsoMu24_EffFit_test_HLT_Mu50ORHLT_MuH
+T400ORHLT_MuHT350ORHLT_MetOR.pdf used on input line 268.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf, id=1862, 56
+9.12625pt x 552.0625pt>
+File: Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf Graphic
+ file (type pdf)
+
+<use Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_EleORORHL
+T_MetOR.pdf used on input line 281.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf, id=1863, 569
+.12625pt x 552.0625pt>
+File: Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf Graphic 
+file (type pdf)
+
+<use Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf>
+Package pdftex.def Info: Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_MuORORHLT
+_MetOR.pdf used on input line 282.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--317
+
+ []
+
+[49 <./Plots/analysis/cutflow/electron.pdf, page is rotated 90 degrees> <./Plot
+s/analysis/cutflow/muon.pdf, page is rotated 90 degrees>] [50] [51 <./Plots/tri
+gger/LT_PFJet450_EffFit_test_HLT_EleORORHLT_MetOR.pdf, page is rotated 90 degre
+es> <./Plots/trigger/LT_PFJet450_EffFit_test_HLT_MuORORHLT_MetOR.pdf, page is r
+otated 90 degrees> <./Plots/trigger/HT_IsoEle27T_EffFit_test_HLT_Ele105ORHLT_El
+e115ORHLT_Ele50PFJet165ORHLT_EleHT400ORHLT_EleHT350ORHLT_MetOR.pdf, page is rot
+ated 90 degrees> <./Plots/trigger/HT_IsoMu24_EffFit_test_HLT_Mu50ORHLT_MuHT400O
+RHLT_MuHT350ORHLT_MetOR.pdf, page is rotated 90 degrees>]
+<Plots/analysis/control_Plots/nBjet0b.pdf, id=2151, 569.12625pt x 546.04pt>
+File: Plots/analysis/control_Plots/nBjet0b.pdf Graphic file (type pdf)
+
+<use Plots/analysis/control_Plots/nBjet0b.pdf>
+Package pdftex.def Info: Plots/analysis/control_Plots/nBjet0b.pdf used on input
+ line 325.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_nJet30Prel
+iminary.pdf, id=2152, 569.12625pt x 546.04pt>
+File: Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_nJet3
+0Preliminary.pdf Graphic file (type pdf)
+
+<use Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_nJet30
+Preliminary.pdf>
+Package pdftex.def Info: Plots/analysis/control_Plots/plots_zerob_st250_ht500_n
+jet5_nbtagEq0_nJet30Preliminary.pdf used on input line 326.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_htJet30jPr
+eliminary.pdf, id=2153, 569.12625pt x 546.04pt>
+File: Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_htJet
+30jPreliminary.pdf Graphic file (type pdf)
+
+<use Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_htJet3
+0jPreliminary.pdf>
+Package pdftex.def Info: Plots/analysis/control_Plots/plots_zerob_st250_ht500_n
+jet5_nbtagEq0_htJet30jPreliminary.pdf used on input line 327.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/control_Plots/LT_colors.pdf, id=2154, 569.12625pt x 546.04pt>
+File: Plots/analysis/control_Plots/LT_colors.pdf Graphic file (type pdf)
+
+<use Plots/analysis/control_Plots/LT_colors.pdf>
+Package pdftex.def Info: Plots/analysis/control_Plots/LT_colors.pdf used on inp
+ut line 328.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+ (./signalRegions.tex [52 <./Plots/trigger/LepPt_PFJet450_EffFit_test_HLT_EleOR
+ORHLT_MetOR.pdf, page is rotated 90 degrees> <./Plots/trigger/LepPt_PFJet450_Ef
+fFit_test_HLT_MuORORHLT_MetOR.pdf, page is rotated 90 degrees>]
+<Plots/analysis/signalRegions/deltaPhi_Wl_narrownormal.pdf, id=2247, 569.12625p
+t x 546.04pt>
+File: Plots/analysis/signalRegions/deltaPhi_Wl_narrownormal.pdf Graphic file (t
+ype pdf)
+ <use Plots/analysis/signalRegions/deltaPhi_Wl_narrownormal.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/deltaPhi_Wl_narrownormal.
+pdf used on input line 7.
+(pdftex.def)             Requested size: 216.81pt x 208.01393pt.
+
+<Plots/analysis/signalRegions/2D_TTWJets.pdf, id=2252, 569.12625pt x 546.04pt>
+File: Plots/analysis/signalRegions/2D_TTWJets.pdf Graphic file (type pdf)
+
+<use Plots/analysis/signalRegions/2D_TTWJets.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/2D_TTWJets.pdf used on in
+put line 21.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/signalRegions/2D_s1900_100.pdf, id=2253, 569.12625pt x 546.04pt
+>
+File: Plots/analysis/signalRegions/2D_s1900_100.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/2D_s1900_100.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/2D_s1900_100.pdf used on 
+input line 22.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/signalRegions/2D_s1500_1000.pdf, id=2254, 569.12625pt x 546.04p
+t>
+File: Plots/analysis/signalRegions/2D_s1500_1000.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/2D_s1500_1000.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/2D_s1500_1000.pdf used on
+ input line 23.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/signalRegions/preselyields.pdf, id=2256, 569.12625pt x 399.4925
+pt>
+File: Plots/analysis/signalRegions/preselyields.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/preselyields.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/preselyields.pdf used on 
+input line 34.
+(pdftex.def)             Requested size: 195.12767pt x 136.96555pt.
+
+<Plots/analysis/signalRegions/preselEff.pdf, id=2257, 569.12625pt x 434.62375pt
+>
+File: Plots/analysis/signalRegions/preselEff.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/preselEff.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/preselEff.pdf used on inp
+ut line 35.
+(pdftex.def)             Requested size: 173.44534pt x 132.45724pt.
+
+<Plots/analysis/signalRegions/DF_Eff.pdf, id=2258, 569.12625pt x 479.7925pt>
+File: Plots/analysis/signalRegions/DF_Eff.pdf Graphic file (type pdf)
+
+<use Plots/analysis/signalRegions/DF_Eff.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/DF_Eff.pdf used on input 
+line 36.
+(pdftex.def)             Requested size: 173.44534pt x 146.223pt.
+
+<Plots/analysis/signalRegions/DF_var_Eff.pdf, id=2259, 569.12625pt x 508.90125p
+t>
+File: Plots/analysis/signalRegions/DF_var_Eff.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/DF_var_Eff.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/DF_var_Eff.pdf used on in
+put line 37.
+(pdftex.def)             Requested size: 173.44534pt x 155.09428pt.
+ [53] [54 <./Plots/analysis/control_Plots/nBjet0b.pdf, page is rotated 90 degre
+es> <./Plots/analysis/control_Plots/plots_zerob_st250_ht500_njet5_nbtagEq0_nJet
+30Preliminary.pdf, page is rotated 90 degrees> <./Plots/analysis/control_Plots/
+plots_zerob_st250_ht500_njet5_nbtagEq0_htJet30jPreliminary.pdf, page is rotated
+ 90 degrees> <./Plots/analysis/control_Plots/LT_colors.pdf, page is rotated 90 
+degrees>] [55 <./Plots/analysis/signalRegions/deltaPhi_Wl_narrownormal.pdf, pag
+e is rotated 90 degrees>]
+[56 <./Plots/analysis/signalRegions/2D_TTWJets.pdf, page is rotated 90 degrees>
+ <./Plots/analysis/signalRegions/2D_s1900_100.pdf, page is rotated 90 degrees> 
+<./Plots/analysis/signalRegions/2D_s1500_1000.pdf, page is rotated 90 degrees>]
+
+<Plots/analysis/signalRegions/MC__mu__SR.pdf, id=2476, 569.12625pt x 270.00874p
+t>
+File: Plots/analysis/signalRegions/MC__mu__SR.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/MC__mu__SR.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/MC__mu__SR.pdf used on in
+put line 88.
+(pdftex.def)             Requested size: 411.93767pt x 195.44437pt.
+
+<Plots/analysis/signalRegions/MC__mu__CR.pdf, id=2477, 569.12625pt x 270.00874p
+t>
+File: Plots/analysis/signalRegions/MC__mu__CR.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/MC__mu__CR.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/MC__mu__CR.pdf used on in
+put line 89.
+(pdftex.def)             Requested size: 411.93767pt x 195.44437pt.
+
+<Plots/analysis/signalRegions/MC__ele__SR.pdf, id=2478, 569.12625pt x 270.00874
+pt>
+File: Plots/analysis/signalRegions/MC__ele__SR.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/MC__ele__SR.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/MC__ele__SR.pdf used on i
+nput line 97.
+(pdftex.def)             Requested size: 411.93767pt x 195.44437pt.
+
+<Plots/analysis/signalRegions/MC__ele__CR.pdf, id=2479, 569.12625pt x 270.00874
+pt>
+File: Plots/analysis/signalRegions/MC__ele__CR.pdf Graphic file (type pdf)
+ <use Plots/analysis/signalRegions/MC__ele__CR.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/MC__ele__CR.pdf used on i
+nput line 98.
+(pdftex.def)             Requested size: 411.93767pt x 195.44437pt.
+))
+(./backgroundEstimation.tex [57 <./Plots/analysis/signalRegions/preselyields.pd
+f, page is rotated 90 degrees> <./Plots/analysis/signalRegions/preselEff.pdf, p
+age is rotated 90 degrees> <./Plots/analysis/signalRegions/DF_Eff.pdf, page is 
+rotated 90 degrees> <./Plots/analysis/signalRegions/DF_var_Eff.pdf, page is rot
+ated 90 degrees>] [58] [59 <./Plots/analysis/signalRegions/MC__mu__SR.pdf, page
+ is rotated 90 degrees> <./Plots/analysis/signalRegions/MC__mu__CR.pdf, page is
+ rotated 90 degrees>] [60 <./Plots/analysis/signalRegions/MC__ele__SR.pdf, page
+ is rotated 90 degrees> <./Plots/analysis/signalRegions/MC__ele__CR.pdf, page i
+s rotated 90 degrees>]
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc5) [61
+
+]
+
+Package natbib Warning: Citation `LP' on page 62 undefined on input line 68.
+
+[62]
+<Plots/analysis/QCD/Lp_singleElectronic_st250-350_ht500_njet3-4_nbtagEq0_Templa
+teFit.pdf, id=2811, 569.12625pt x 548.0475pt>
+File: Plots/analysis/QCD/Lp_singleElectronic_st250-350_ht500_njet3-4_nbtagEq0_T
+emplateFit.pdf Graphic file (type pdf)
+
+<use Plots/analysis/QCD/Lp_singleElectronic_st250-350_ht500_njet3-4_nbtagEq0_Te
+mplateFit.pdf>
+Package pdftex.def Info: Plots/analysis/QCD/Lp_singleElectronic_st250-350_ht500
+_njet3-4_nbtagEq0_TemplateFit.pdf used on input line 79.
+(pdftex.def)             Requested size: 195.12767pt x 187.89748pt.
+ <Plots/analysis/QCD/Fsel.pdf, id=2812, 569.12625pt x 546.04pt>
+File: Plots/analysis/QCD/Fsel.pdf Graphic file (type pdf)
+
+<use Plots/analysis/QCD/Fsel.pdf>
+Package pdftex.def Info: Plots/analysis/QCD/Fsel.pdf used on input line 80.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/signalRegions/34jets.pdf, id=2814, 569.12625pt x 674.52pt>
+File: Plots/analysis/signalRegions/34jets.pdf Graphic file (type pdf)
+
+<use Plots/analysis/signalRegions/34jets.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/34jets.pdf used on input 
+line 93.
+(pdftex.def)             Requested size: 208.13574pt x 246.67635pt.
+
+<Plots/analysis/signalRegions/8jets.pdf, id=2815, 569.12625pt x 674.52pt>
+File: Plots/analysis/signalRegions/8jets.pdf Graphic file (type pdf)
+
+<use Plots/analysis/signalRegions/8jets.pdf>
+Package pdftex.def Info: Plots/analysis/signalRegions/8jets.pdf used on input l
+ine 94.
+(pdftex.def)             Requested size: 208.13574pt x 246.67635pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+<Plots/analysis/RCS/dilep.pdf, id=2817, 569.12625pt x 545.03625pt>
+File: Plots/analysis/RCS/dilep.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/dilep.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/dilep.pdf used on input line 105.
+(pdftex.def)             Requested size: 195.12767pt x 186.86507pt.
+
+<Plots/analysis/RCS/semilep.pdf, id=2818, 569.12625pt x 545.03625pt>
+File: Plots/analysis/RCS/semilep.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/semilep.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/semilep.pdf used on input line 106.
+
+(pdftex.def)             Requested size: 195.12767pt x 186.86507pt.
+ [63]
+
+LaTeX Warning: Text page 64 contains only floats.
+
+[64 <./Plots/analysis/QCD/Lp_singleElectronic_st250-350_ht500_njet3-4_nbtagEq0_
+TemplateFit.pdf, page is rotated 90 degrees> <./Plots/analysis/QCD/Fsel.pdf, pa
+ge is rotated 90 degrees> <./Plots/analysis/signalRegions/34jets.pdf> <./Plots/
+analysis/signalRegions/8jets.pdf>] [65 <./Plots/analysis/RCS/dilep.pdf, page is
+ rotated 90 degrees> <./Plots/analysis/RCS/semilep.pdf, page is rotated 90 degr
+ees>]
+<Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf, id=30
+73, 569.12625pt x 549.05125pt>
+File: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf G
+raphic file (type pdf)
+
+<use Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_t
+tjets_all_fit.pdf used on input line 119.
+(pdftex.def)             Requested size: 195.12767pt x 188.24161pt.
+File: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf G
+raphic file (type pdf)
+
+<use Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_t
+tjets_all_fit.pdf used on input line 120.
+(pdftex.def)             Requested size: 195.12767pt x 188.24161pt.
+
+<Plots/analysis/RCS/diLepCR/singLep.pdf, id=3075, 569.12625pt x 552.0625pt>
+File: Plots/analysis/RCS/diLepCR/singLep.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/diLepCR/singLep.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/diLepCR/singLep.pdf used on input l
+ine 142.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/analysis/RCS/diLepCR/diLep.pdf, id=3076, 569.12625pt x 552.0625pt>
+File: Plots/analysis/RCS/diLepCR/diLep.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/diLepCR/diLep.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/diLepCR/diLep.pdf used on input lin
+e 143.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+
+<Plots/analysis/RCS/diLepCR/double_Ratio.pdf, id=3077, 569.12625pt x 552.0625pt
+>
+File: Plots/analysis/RCS/diLepCR/double_Ratio.pdf Graphic file (type pdf)
+ <use Plots/analysis/RCS/diLepCR/double_Ratio.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/diLepCR/double_Ratio.pdf used on in
+put line 144.
+(pdftex.def)             Requested size: 173.44534pt x 168.24825pt.
+ [66 <./Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_ttjets_all_fit.pdf
+, page is rotated 90 degrees>]
+<Plots/analysis/RCS/diLepCR/Spring16_templates_SR_Moriond2017_Summer16_lep_data
+_Kappa_compForthesis.pdf, id=3121, 569.12625pt x 156.585pt>
+File: Plots/analysis/RCS/diLepCR/Spring16_templates_SR_Moriond2017_Summer16_lep
+_data_Kappa_compForthesis.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/diLepCR/Spring16_templates_SR_Moriond2017_Summer16_lep_
+data_Kappa_compForthesis.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/diLepCR/Spring16_templates_SR_Morio
+nd2017_Summer16_lep_data_Kappa_compForthesis.pdf used on input line 161.
+(pdftex.def)             Requested size: 433.62pt x 119.30927pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 170.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 170.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 170.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 170.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 170.
+
+[67]
+
+LaTeX Warning: Text page 68 contains only floats.
+
+[68 <./Plots/analysis/RCS/diLepCR/singLep.pdf, page is rotated 90 degrees> <./P
+lots/analysis/RCS/diLepCR/diLep.pdf, page is rotated 90 degrees> <./Plots/analy
+sis/RCS/diLepCR/double_Ratio.pdf, page is rotated 90 degrees> <./Plots/analysis
+/RCS/diLepCR/Spring16_templates_SR_Moriond2017_Summer16_lep_data_Kappa_compFort
+hesis.pdf, page is rotated 90 degrees>]
+<Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pdf, id=
+3246, 569.12625pt x 549.05125pt>
+File: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pdf
+ Graphic file (type pdf)
+
+<use Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_W
+jets_NegPdg_fit.pdf used on input line 183.
+(pdftex.def)             Requested size: 195.12767pt x 188.24161pt.
+File: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pdf
+ Graphic file (type pdf)
+
+<use Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_W
+jets_NegPdg_fit.pdf used on input line 184.
+(pdftex.def)             Requested size: 195.12767pt x 188.24161pt.
+[69 <./Plots/analysis/RCS/st250-350_ht500-1000_njet8_nbtag0_Wjets_NegPdg_fit.pd
+f, page is rotated 90 degrees>]
+<Plots/analysis/RCS/Spring16_templates_SR_Moriond2017_Summer16_lep_data_Kappa_W
+.pdf, id=3290, 569.12625pt x 270.00874pt>
+File: Plots/analysis/RCS/Spring16_templates_SR_Moriond2017_Summer16_lep_data_Ka
+ppa_W.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/Spring16_templates_SR_Moriond2017_Summer16_lep_data_Kap
+pa_W.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/Spring16_templates_SR_Moriond2017_S
+ummer16_lep_data_Kappa_W.pdf used on input line 200.
+(pdftex.def)             Requested size: 433.62pt x 205.73201pt.
+
+<Plots/analysis/RCS/Spring16_templates_validation_4j_Moriond2017_lep_data_Kappa
+.pdf, id=3292, 569.12625pt x 270.00874pt>
+File: Plots/analysis/RCS/Spring16_templates_validation_4j_Moriond2017_lep_data_
+Kappa.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/Spring16_templates_validation_4j_Moriond2017_lep_data_K
+appa.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/Spring16_templates_validation_4j_Mo
+riond2017_lep_data_Kappa.pdf used on input line 210.
+(pdftex.def)             Requested size: 346.89731pt x 164.5856pt.
+) (./systematics.tex [70 <./Plots/analysis/RCS/Spring16_templates_SR_Moriond201
+7_Summer16_lep_data_Kappa_W.pdf, page is rotated 90 degrees>] [71 <./Plots/anal
+ysis/RCS/Spring16_templates_validation_4j_Moriond2017_lep_data_Kappa.pdf, page 
+is rotated 90 degrees>]
+Chapter 6.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc6) [72
+
+]
+<Plots/analysis/RCS/diLepCR/DL_comp.pdf, id=3372, 569.12625pt x 270.00874pt>
+File: Plots/analysis/RCS/diLepCR/DL_comp.pdf Graphic file (type pdf)
+
+<use Plots/analysis/RCS/diLepCR/DL_comp.pdf>
+Package pdftex.def Info: Plots/analysis/RCS/diLepCR/DL_comp.pdf used on input l
+ine 25.
+(pdftex.def)             Requested size: 346.89731pt x 164.5856pt.
+ [73] [74 <./Plots/analysis/RCS/diLepCR/DL_comp.pdf, page is rotated 90 degrees
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--72
+
+ []
+
+[75] [76]
+<Plots/analysis/pileUp/PU_dependence.pdf, id=3449, 569.12625pt x 270.00874pt>
+File: Plots/analysis/pileUp/PU_dependence.pdf Graphic file (type pdf)
+
+<use Plots/analysis/pileUp/PU_dependence.pdf>
+Package pdftex.def Info: Plots/analysis/pileUp/PU_dependence.pdf used on input 
+line 94.
+(pdftex.def)             Requested size: 346.89731pt x 164.5856pt.
+
+<Plots/analysis/pileUp/lowmassgap_mean_forsyst.pdf, id=3453, 416.28255pt x 394.
+48328pt>
+File: Plots/analysis/pileUp/lowmassgap_mean_forsyst.pdf Graphic file (type pdf)
+
+ <use Plots/analysis/pileUp/lowmassgap_mean_forsyst.pdf>
+Package pdftex.def Info: Plots/analysis/pileUp/lowmassgap_mean_forsyst.pdf used
+ on input line 106.
+(pdftex.def)             Requested size: 130.08731pt x 123.2697pt.
+
+<Plots/analysis/pileUp/fit_forsyst.pdf, id=3454, 431.25575pt x 410.7097pt>
+File: Plots/analysis/pileUp/fit_forsyst.pdf Graphic file (type pdf)
+
+<use Plots/analysis/pileUp/fit_forsyst.pdf>
+Package pdftex.def Info: Plots/analysis/pileUp/fit_forsyst.pdf used on input li
+ne 107.
+(pdftex.def)             Requested size: 130.08731pt x 123.89069pt.
+
+<Plots/analysis/pileUp/datanorm_forsyst.pdf, id=3455, 453.2623pt x 319.07487pt>
+File: Plots/analysis/pileUp/datanorm_forsyst.pdf Graphic file (type pdf)
+<use Plots/analysis/pileUp/datanorm_forsyst.pdf>
+Package pdftex.def Info: Plots/analysis/pileUp/datanorm_forsyst.pdf used on inp
+ut line 108.
+(pdftex.def)             Requested size: 130.08731pt x 91.57507pt.
+
+<Plots/analysis/syst/plots_zerob_kappa_systematics_zerob.pdf, id=3458, 777.4339
+pt x 382.80856pt>
+File: Plots/analysis/syst/plots_zerob_kappa_systematics_zerob.pdf Graphic file 
+(type pdf)
+
+<use Plots/analysis/syst/plots_zerob_kappa_systematics_zerob.pdf>
+Package pdftex.def Info: Plots/analysis/syst/plots_zerob_kappa_systematics_zero
+b.pdf used on input line 116.
+(pdftex.def)             Requested size: 346.89731pt x 170.81364pt.
+
+<Plots/analysis/syst/syst_errors_signal_1900_100.pdf, id=3461, 569.12625pt x 27
+0.00874pt>
+File: Plots/analysis/syst/syst_errors_signal_1900_100.pdf Graphic file (type pd
+f)
+ <use Plots/analysis/syst/syst_errors_signal_1900_100.pdf>
+Package pdftex.def Info: Plots/analysis/syst/syst_errors_signal_1900_100.pdf us
+ed on input line 122.
+(pdftex.def)             Requested size: 390.25534pt x 185.15674pt.
+)
+(./results.tex [77 <./Plots/analysis/pileUp/PU_dependence.pdf, page is rotated 
+90 degrees>] [78 <./Plots/analysis/pileUp/lowmassgap_mean_forsyst.pdf> <./Plots
+/analysis/pileUp/fit_forsyst.pdf> <./Plots/analysis/pileUp/datanorm_forsyst.pdf
+>] [79 <./Plots/analysis/syst/plots_zerob_kappa_systematics_zerob.pdf, page is 
+rotated 90 degrees> <./Plots/analysis/syst/syst_errors_signal_1900_100.pdf, pag
+e is rotated 90 degrees>]
+Chapter 7.
+\openout3 = `thesismain.mtc'.
+
+\openout3 = `thesismain.mtc'.
+
+(./thesismain.mtc7)
+<Plots/analysis/results/st250-350_ht500-750_njetEq3_nBTagFitRes.pdf, id=3666, 4
+91.8375pt x 739.76375pt>
+File: Plots/analysis/results/st250-350_ht500-750_njetEq3_nBTagFitRes.pdf Graphi
+c file (type pdf)
+
+<use Plots/analysis/results/st250-350_ht500-750_njetEq3_nBTagFitRes.pdf>
+Package pdftex.def Info: Plots/analysis/results/st250-350_ht500-750_njetEq3_nBT
+agFitRes.pdf used on input line 19.
+(pdftex.def)             Requested size: 173.44534pt x 260.874pt.
+
+<Plots/analysis/results/st250-350_ht500-750_njetEq4_nBTagFitRes.pdf, id=3667, 4
+91.8375pt x 739.76375pt>
+File: Plots/analysis/results/st250-350_ht500-750_njetEq4_nBTagFitRes.pdf Graphi
+c file (type pdf)
+
+<use Plots/analysis/results/st250-350_ht500-750_njetEq4_nBTagFitRes.pdf>
+Package pdftex.def Info: Plots/analysis/results/st250-350_ht500-750_njetEq4_nBT
+agFitRes.pdf used on input line 20.
+(pdftex.def)             Requested size: 173.44534pt x 260.874pt.
+
+<Plots/analysis/results/Prediction_Spring16_templates_validation_4j_Moriond2017
+_lep_data_36p5_blind.pdf, id=3668, 569.12625pt x 270.00874pt>
+File: Plots/analysis/results/Prediction_Spring16_templates_validation_4j_Morion
+d2017_lep_data_36p5_blind.pdf Graphic file (type pdf)
+
+<use Plots/analysis/results/Prediction_Spring16_templates_validation_4j_Moriond
+2017_lep_data_36p5_blind.pdf>
+Package pdftex.def Info: Plots/analysis/results/Prediction_Spring16_templates_v
+alidation_4j_Moriond2017_lep_data_36p5_blind.pdf used on input line 28.
+(pdftex.def)             Requested size: 390.25534pt x 185.15674pt.
+ [80
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:summary' on page 81 undefined on input line 42.
+
+
+<Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_003.pdf, id=3676, 569.12625pt
+ x 270.00874pt>
+File: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_003.pdf Graphic file (ty
+pe pdf)
+ <use Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_003.pdf>
+Package pdftex.def Info: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_003.p
+df used on input line 46.
+(pdftex.def)             Requested size: 390.25534pt x 185.15674pt.
+
+<Plots/analysis/results/deltaPhi_Wl_wideProject1.pdf, id=3678, 569.12625pt x 54
+6.04pt>
+File: Plots/analysis/results/deltaPhi_Wl_wideProject1.pdf Graphic file (type pd
+f)
+ <use Plots/analysis/results/deltaPhi_Wl_wideProject1.pdf>
+Package pdftex.def Info: Plots/analysis/results/deltaPhi_Wl_wideProject1.pdf us
+ed on input line 55.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/results/deltaPhi_Wl_wideProject2.pdf, id=3679, 569.12625pt x 54
+6.04pt>
+File: Plots/analysis/results/deltaPhi_Wl_wideProject2.pdf Graphic file (type pd
+f)
+ <use Plots/analysis/results/deltaPhi_Wl_wideProject2.pdf>
+Package pdftex.def Info: Plots/analysis/results/deltaPhi_Wl_wideProject2.pdf us
+ed on input line 56.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/results/deltaPhi_Wl_wideProject3.pdf, id=3680, 569.12625pt x 54
+6.04pt>
+File: Plots/analysis/results/deltaPhi_Wl_wideProject3.pdf Graphic file (type pd
+f)
+ <use Plots/analysis/results/deltaPhi_Wl_wideProject3.pdf>
+Package pdftex.def Info: Plots/analysis/results/deltaPhi_Wl_wideProject3.pdf us
+ed on input line 57.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+
+<Plots/analysis/results/deltaPhi_Wl_wideProject4.pdf, id=3681, 569.12625pt x 54
+6.04pt>
+File: Plots/analysis/results/deltaPhi_Wl_wideProject4.pdf Graphic file (type pd
+f)
+ <use Plots/analysis/results/deltaPhi_Wl_wideProject4.pdf>
+Package pdftex.def Info: Plots/analysis/results/deltaPhi_Wl_wideProject4.pdf us
+ed on input line 58.
+(pdftex.def)             Requested size: 195.12767pt x 187.2092pt.
+ [81 <./Plots/analysis/results/st250-350_ht500-750_njetEq3_nBTagFitRes.pdf> <./
+Plots/analysis/results/st250-350_ht500-750_njetEq4_nBTagFitRes.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:summary' on page 82 undefined on input line 66.
+
+[82 <./Plots/analysis/results/Prediction_Spring16_templates_validation_4j_Morio
+nd2017_lep_data_36p5_blind.pdf, page is rotated 90 degrees>] [83 <./Plots/analy
+sis/results/CMS-PAS-SUS-16-042_Figure_003.pdf, page is rotated 90 degrees>]
+[84 <./Plots/analysis/results/deltaPhi_Wl_wideProject1.pdf, page is rotated 90 
+degrees> <./Plots/analysis/results/deltaPhi_Wl_wideProject2.pdf, page is rotate
+d 90 degrees> <./Plots/analysis/results/deltaPhi_Wl_wideProject3.pdf, page is r
+otated 90 degrees> <./Plots/analysis/results/deltaPhi_Wl_wideProject4.pdf, page
+ is rotated 90 degrees>]
+
+LaTeX Warning: Reference `sec:systematics' on page 85 undefined on input line 1
+04.
+
+
+<Plots/analysis/results/dataCardZeroB.pdf, id=3929, 811.26624pt x 315.50082pt>
+File: Plots/analysis/results/dataCardZeroB.pdf Graphic file (type pdf)
+
+<use Plots/analysis/results/dataCardZeroB.pdf>
+Package pdftex.def Info: Plots/analysis/results/dataCardZeroB.pdf used on input
+ line 108.
+(pdftex.def)             Requested size: 650.43pt x 252.95462pt.
+ [85] [86 <./Plots/analysis/results/dataCardZeroB.pdf, page is rotated 90 degre
+es>]
+<Plots/analysis/results/CMS-PAS-SUS-16-042_Figure-aux_002.pdf, id=3965, 569.126
+25pt x 546.04pt>
+File: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure-aux_002.pdf Graphic file
+ (type pdf)
+
+<use Plots/analysis/results/CMS-PAS-SUS-16-042_Figure-aux_002.pdf>
+Package pdftex.def Info: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure-aux_0
+02.pdf used on input line 150.
+(pdftex.def)             Requested size: 216.81pt x 208.01393pt.
+
+
+Package natbib Warning: Citation `Cls1' on page 87 undefined on input line 156.
+
+
+[87] <Plots/analysis/results/ObsLim.pdf, id=3980, 569.12625pt x 387.4475pt>
+File: Plots/analysis/results/ObsLim.pdf Graphic file (type pdf)
+
+<use Plots/analysis/results/ObsLim.pdf>
+Package pdftex.def Info: Plots/analysis/results/ObsLim.pdf used on input line 1
+80.
+(pdftex.def)             Requested size: 195.12767pt x 132.83594pt.
+
+<Plots/analysis/results/ExpLim.pdf, id=3981, 569.12625pt x 387.4475pt>
+File: Plots/analysis/results/ExpLim.pdf Graphic file (type pdf)
+
+<use Plots/analysis/results/ExpLim.pdf>
+Package pdftex.def Info: Plots/analysis/results/ExpLim.pdf used on input line 1
+81.
+(pdftex.def)             Requested size: 195.12767pt x 132.83594pt.
+ [88 <./Plots/analysis/results/CMS-PAS-SUS-16-042_Figure-aux_002.pdf, page is r
+otated 90 degrees>]
+<Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_004-b.pdf, id=4031, 569.12625
+pt x 546.04pt>
+File: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_004-b.pdf Graphic file (
+type pdf)
+
+<use Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_004-b.pdf>
+Package pdftex.def Info: Plots/analysis/results/CMS-PAS-SUS-16-042_Figure_004-b
+.pdf used on input line 189.
+(pdftex.def)             Requested size: 260.17464pt x 249.63171pt.
+
+
+Package natbib Warning: Citation `SUS_16_042' on page 89 undefined on input lin
+e 201.
+
+
+Package natbib Warning: Citation `SUS-16-033' on page 89 undefined on input lin
+e 201.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
+
+ []
+
+[89] [90 <./Plots/analysis/results/ObsLim.pdf, page is rotated 90 degrees> <./P
+lots/analysis/results/ExpLim.pdf, page is rotated 90 degrees> <./Plots/analysis
+/results/CMS-PAS-SUS-16-042_Figure_004-b.pdf, page is rotated 90 degrees>]
+<Plots/SUSY/ATLAS_SUSY_Summary.png, id=4180, 917.3472pt x 659.3433pt>
+File: Plots/SUSY/ATLAS_SUSY_Summary.png Graphic file (type png)
+
+<use Plots/SUSY/ATLAS_SUSY_Summary.png>
+Package pdftex.def Info: Plots/SUSY/ATLAS_SUSY_Summary.png used on input line 2
+07.
+(pdftex.def)             Requested size: 390.25534pt x 280.49387pt.
+
+<Plots/SUSY/CMS_Moriond2017_BarPlot.pdf, id=4181, 569.12625pt x 385.44pt>
+File: Plots/SUSY/CMS_Moriond2017_BarPlot.pdf Graphic file (type pdf)
+
+<use Plots/SUSY/CMS_Moriond2017_BarPlot.pdf>
+Package pdftex.def Info: Plots/SUSY/CMS_Moriond2017_BarPlot.pdf used on input l
+ine 208.
+(pdftex.def)             Requested size: 403.26341pt x 273.12323pt.
+
+<Plots/SUSY/CMS_SUSY_Strong_1Step.pdf, id=4186, 481.91603pt x 462.36742pt>
+File: Plots/SUSY/CMS_SUSY_Strong_1Step.pdf Graphic file (type pdf)
+
+<use Plots/SUSY/CMS_SUSY_Strong_1Step.pdf>
+Package pdftex.def Info: Plots/SUSY/CMS_SUSY_Strong_1Step.pdf used on input lin
+e 216.
+(pdftex.def)             Requested size: 195.12767pt x 187.21544pt.
+
+<Plots/SUSY/ATLAS_SUSY_Strong_1step.png, id=4187, 1986.42125pt x 1912.14375pt>
+File: Plots/SUSY/ATLAS_SUSY_Strong_1step.png Graphic file (type png)
+
+<use Plots/SUSY/ATLAS_SUSY_Strong_1step.png>
+Package pdftex.def Info: Plots/SUSY/ATLAS_SUSY_Strong_1step.png used on input l
+ine 217.
+(pdftex.def)             Requested size: 195.12767pt x 187.81187pt.
+) (./conclusion.tex [91] [92 <./Plots/SUSY/ATLAS_SUSY_Summary.png> <./Plots/SUS
+Y/CMS_Moriond2017_BarPlot.pdf, page is rotated 90 degrees>] [93 <./Plots/SUSY/C
+MS_SUSY_Strong_1Step.pdf> <./Plots/SUSY/ATLAS_SUSY_Strong_1step.png>]
+Chapter 8.
+) [94
+
+] [95] [96]
+\openout2 = `appendix_samp.aux'.
+
+ (./appendix_samp.tex
+Appendix A.
+
+Overfull \hbox (9.20897pt too wide) in paragraph at lines 61--115
+[][] 
+ []
+
+) [97
+
+
+
+] [98]
+\openout2 = `appendix_CRplots.aux'.
+
+ (./appendix_CRplots.tex
+Appendix B.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf, id=4
+299, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/nJet30.pdf used on input line 11.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leading_JetPt.pd
+f, id=4300, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leading_Jet
+Pt.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leading_JetP
+t.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/leading_JetPt.pdf used on input line 12.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nVert.pdf, id=43
+01, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nVert.pdf G
+raphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/nVert.pdf used on input line 13.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonPt.pdf, id
+=4302, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonPt.pd
+f Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonPt.pdf
+>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/leptonPt.pdf used on input line 14.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf, id=
+4303, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/iso_MT2.pdf used on input line 15.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonminiIso.pd
+f, id=4304, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonminiI
+so.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonminiIs
+o.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/leptonminiIso.pdf used on input line 16.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/htJet30j.pdf, id
+=4305, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/htJet30j.pd
+f Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/htJet30j.pdf
+>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/htJet30j.pdf used on input line 17.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/LT.pdf, id=4306,
+ 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/LT.pdf Grap
+hic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/LT.pdf used on input line 18.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl.pdf,
+ id=4307, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl
+.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl.
+pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_n
+btagEq0/deltaPhi_Wl.pdf used on input line 19.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf, id=
+4308, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/nJet30.pdf used on input line 32.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leading_JetPt.p
+df, id=4309, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leading_Je
+tPt.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leading_Jet
+Pt.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/leading_JetPt.pdf used on input line 33.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nVert.pdf, id=4
+310, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nVert.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/nVert.pdf used on input line 34.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonPt.pdf, i
+d=4311, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonPt.p
+df Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonPt.pd
+f>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/leptonPt.pdf used on input line 35.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf, id
+=4312, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pd
+f Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf
+>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/iso_MT2.pdf used on input line 36.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonminiIso.p
+df, id=4313, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonmini
+Iso.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leptonminiI
+so.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/leptonminiIso.pdf used on input line 37.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/htJet30j.pdf, i
+d=4314, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/htJet30j.p
+df Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/htJet30j.pd
+f>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/htJet30j.pdf used on input line 38.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/LT.pdf, id=4315
+, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/LT.pdf Gra
+phic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/LT.pdf used on input line 39.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl.pdf
+, id=4316, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/deltaPhi_W
+l.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl
+.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/deltaPhi_Wl.pdf used on input line 40.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nJet30.pdf, id=431
+7, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nJet30.pdf Gr
+aphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/nJet30.pdf used on input line 52.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leading_JetPt.pdf,
+ id=4318, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leading_JetPt
+.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leading_JetPt.
+pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/leading_JetPt.pdf used on input line 53.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nVert.pdf, id=4319
+, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nVert.pdf Gra
+phic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/nVert.pdf used on input line 54.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonPt.pdf, id=4
+320, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonPt.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonPt.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/leptonPt.pdf used on input line 55.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf, id=43
+21, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf G
+raphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/iso_MT2.pdf used on input line 56.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonminiIso.pdf,
+ id=4322, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonminiIso
+.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonminiIso.
+pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/leptonminiIso.pdf used on input line 57.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/htJet30j.pdf, id=4
+323, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/htJet30j.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/htJet30j.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/htJet30j.pdf used on input line 58.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/LT.pdf, id=4324, 5
+69.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/LT.pdf Graphi
+c file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/LT.pdf used on input line 59.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.pdf, i
+d=4325, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.p
+df Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.pd
+f>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_n
+btag1/deltaPhi_Wl.pdf used on input line 60.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nJet30.pdf, id=43
+26, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nJet30.pdf G
+raphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/nJet30.pdf used on input line 71.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leading_JetPt.pdf
+, id=4327, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leading_JetP
+t.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leading_JetPt
+.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/leading_JetPt.pdf used on input line 72.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nVert.pdf, id=432
+8, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nVert.pdf Gr
+aphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/nVert.pdf used on input line 73.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonPt.pdf, id=
+4329, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonPt.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonPt.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/leptonPt.pdf used on input line 74.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf, id=4
+330, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/iso_MT2.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/iso_MT2.pdf used on input line 75.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonminiIso.pdf
+, id=4331, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonminiIs
+o.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonminiIso
+.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/leptonminiIso.pdf used on input line 76.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/htJet30j.pdf, id=
+4332, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/htJet30j.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/htJet30j.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/htJet30j.pdf used on input line 77.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/LT.pdf, id=4333, 
+569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/LT.pdf Graph
+ic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/LT.pdf used on input line 78.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.pdf, 
+id=4334, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.
+pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/deltaPhi_Wl.p
+df>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_
+nbtag1/deltaPhi_Wl.pdf used on input line 79.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nJet30.pdf, id=433
+5, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nJet30.pdf Gr
+aphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/nJet30.pdf used on input line 91.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leading_JetPt.pdf,
+ id=4336, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leading_JetPt
+.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leading_JetPt.
+pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/leading_JetPt.pdf used on input line 92.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nVert.pdf, id=4337
+, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nVert.pdf Gra
+phic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/nVert.pdf used on input line 93.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonPt.pdf, id=4
+338, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonPt.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonPt.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/leptonPt.pdf used on input line 94.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf, id=43
+39, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf G
+raphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/iso_MT2.pdf used on input line 95.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonminiIso.pdf,
+ id=4340, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonminiIso
+.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonminiIso.
+pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/leptonminiIso.pdf used on input line 96.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/htJet30j.pdf, id=4
+341, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/htJet30j.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/htJet30j.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/htJet30j.pdf used on input line 97.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/LT.pdf, id=4342, 5
+69.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/LT.pdf Graphi
+c file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/LT.pdf used on input line 98.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.pdf, i
+d=4343, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.p
+df Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.pd
+f>
+Package pdftex.def Info: Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/deltaPhi_Wl.pdf used on input line 99.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nJet30.pdf, id=43
+44, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nJet30.pdf G
+raphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nJet30.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/nJet30.pdf used on input line 109.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leading_JetPt.pdf
+, id=4345, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leading_JetP
+t.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leading_JetPt
+.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/leading_JetPt.pdf used on input line 110.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nVert.pdf, id=434
+6, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nVert.pdf Gr
+aphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nVert.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/nVert.pdf used on input line 111.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonPt.pdf, id=
+4347, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonPt.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonPt.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/leptonPt.pdf used on input line 112.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf, id=4
+348, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf 
+Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/iso_MT2.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/iso_MT2.pdf used on input line 113.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonminiIso.pdf
+, id=4349, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonminiIs
+o.pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonminiIso
+.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/leptonminiIso.pdf used on input line 114.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/htJet30j.pdf, id=
+4350, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/htJet30j.pdf
+ Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/htJet30j.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/htJet30j.pdf used on input line 115.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/LT.pdf, id=4351, 
+569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/LT.pdf Graph
+ic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/LT.pdf>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/LT.pdf used on input line 116.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+
+<Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.pdf, 
+id=4352, 569.12625pt x 546.04pt>
+File: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.
+pdf Graphic file (type pdf)
+
+<use Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.p
+df>
+Package pdftex.def Info: Plots//analysis/control_Plots/ele/st250_ht500_njet5_nb
+tagEq0/deltaPhi_Wl.pdf used on input line 117.
+(pdftex.def)             Requested size: 569.12486pt x 546.03867pt.
+) [99
+
+
+
+] [100 <./Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nJet30.
+pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht50
+0_njet3-4_nbtagEq0/leading_JetPt.pdf, page is rotated 90 degrees> <./Plots//ana
+lysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/nVert.pdf, page is rotated 
+90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/le
+ptonPt.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st2
+50_ht500_njet3-4_nbtagEq0/iso_MT2.pdf, page is rotated 90 degrees> <./Plots//an
+alysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/leptonminiIso.pdf, page is
+ rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet3-4_nb
+tagEq0/htJet30j.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plo
+ts/mu/st250_ht500_njet3-4_nbtagEq0/LT.pdf, page is rotated 90 degrees> <./Plots
+//analysis/control_Plots/mu/st250_ht500_njet3-4_nbtagEq0/deltaPhi_Wl.pdf, page 
+is rotated 90 degrees>] [101 <./Plots//analysis/control_Plots/ele/st250_ht500_n
+jet3-4_nbtagEq0/nJet30.pdf, page is rotated 90 degrees> <./Plots//analysis/cont
+rol_Plots/ele/st250_ht500_njet3-4_nbtagEq0/leading_JetPt.pdf, page is rotated 9
+0 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/nV
+ert.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250
+_ht500_njet3-4_nbtagEq0/leptonPt.pdf, page is rotated 90 degrees> <./Plots//ana
+lysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/iso_MT2.pdf, page is rotat
+ed 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq
+0/leptonminiIso.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plo
+ts/ele/st250_ht500_njet3-4_nbtagEq0/htJet30j.pdf, page is rotated 90 degrees> <
+./Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_nbtagEq0/LT.pdf, page i
+s rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet3-4_
+nbtagEq0/deltaPhi_Wl.pdf, page is rotated 90 degrees>] [102 <./Plots//analysis/
+control_Plots/mu/st250_ht500_njet4-5_nbtag1/nJet30.pdf, page is rotated 90 degr
+ees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/leading_Jet
+Pt.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_h
+t500_njet4-5_nbtag1/nVert.pdf, page is rotated 90 degrees> <./Plots//analysis/c
+ontrol_Plots/mu/st250_ht500_njet4-5_nbtag1/leptonPt.pdf, page is rotated 90 deg
+rees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/iso_MT2.pd
+f, page is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_
+njet4-5_nbtag1/leptonminiIso.pdf, page is rotated 90 degrees> <./Plots//analysi
+s/control_Plots/mu/st250_ht500_njet4-5_nbtag1/htJet30j.pdf, page is rotated 90 
+degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet4-5_nbtag1/LT.pdf,
+ page is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_nj
+et4-5_nbtag1/deltaPhi_Wl.pdf, page is rotated 90 degrees>] [103 <./Plots//analy
+sis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/nJet30.pdf, page is rotated 90
+ degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leadi
+ng_JetPt.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/
+st250_ht500_njet4-5_nbtag1/nVert.pdf, page is rotated 90 degrees> <./Plots//ana
+lysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/leptonPt.pdf, page is rotate
+d 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/i
+so_MT2.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st
+250_ht500_njet4-5_nbtag1/leptonminiIso.pdf, page is rotated 90 degrees> <./Plot
+s//analysis/control_Plots/ele/st250_ht500_njet4-5_nbtag1/htJet30j.pdf, page is 
+rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet4-5_nb
+tag1/LT.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/s
+t250_ht500_njet4-5_nbtag1/deltaPhi_Wl.pdf, page is rotated 90 degrees>] [104 <.
+/Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/nJet30.pdf, page i
+s rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbt
+agEq0/leading_JetPt.pdf, page is rotated 90 degrees> <./Plots//analysis/control
+_Plots/mu/st250_ht500_njet5_nbtagEq0/nVert.pdf, page is rotated 90 degrees> <./
+Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/leptonPt.pdf, page 
+is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet5_nb
+tagEq0/iso_MT2.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plot
+s/mu/st250_ht500_njet5_nbtagEq0/leptonminiIso.pdf, page is rotated 90 degrees> 
+<./Plots//analysis/control_Plots/mu/st250_ht500_njet5_nbtagEq0/htJet30j.pdf, pa
+ge is rotated 90 degrees> <./Plots//analysis/control_Plots/mu/st250_ht500_njet5
+_nbtagEq0/LT.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/
+mu/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.pdf, page is rotated 90 degrees>] [10
+5 <./Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/nJet30.pdf, p
+age is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_nje
+t5_nbtagEq0/leading_JetPt.pdf, page is rotated 90 degrees> <./Plots//analysis/c
+ontrol_Plots/ele/st250_ht500_njet5_nbtagEq0/nVert.pdf, page is rotated 90 degre
+es> <./Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonPt.pd
+f, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250_ht500
+_njet5_nbtagEq0/iso_MT2.pdf, page is rotated 90 degrees> <./Plots//analysis/con
+trol_Plots/ele/st250_ht500_njet5_nbtagEq0/leptonminiIso.pdf, page is rotated 90
+ degrees> <./Plots//analysis/control_Plots/ele/st250_ht500_njet5_nbtagEq0/htJet
+30j.pdf, page is rotated 90 degrees> <./Plots//analysis/control_Plots/ele/st250
+_ht500_njet5_nbtagEq0/LT.pdf, page is rotated 90 degrees> <./Plots//analysis/co
+ntrol_Plots/ele/st250_ht500_njet5_nbtagEq0/deltaPhi_Wl.pdf, page is rotated 90 
+degrees>]
+\openout2 = `appendix_nuisances.aux'.
+
+ (./appendix_nuisances.tex
+Appendix C.
+<Plots/nuisances/nuisances-other.pdf, id=6775, 569.12625pt x 408.52625pt>
+File: Plots/nuisances/nuisances-other.pdf Graphic file (type pdf)
+
+<use Plots/nuisances/nuisances-other.pdf>
+Package pdftex.def Info: Plots/nuisances/nuisances-other.pdf used on input line
+ 7.
+(pdftex.def)             Requested size: 216.81pt x 155.62807pt.
+
+<Plots/nuisances/nuisances-kJ.pdf, id=6776, 569.12625pt x 408.52625pt>
+File: Plots/nuisances/nuisances-kJ.pdf Graphic file (type pdf)
+
+<use Plots/nuisances/nuisances-kJ.pdf>
+Package pdftex.def Info: Plots/nuisances/nuisances-kJ.pdf used on input line 8.
+
+(pdftex.def)             Requested size: 216.81pt x 155.62807pt.
+
+<Plots/nuisances/nuisances-QCD.pdf, id=6777, 569.12625pt x 408.52625pt>
+File: Plots/nuisances/nuisances-QCD.pdf Graphic file (type pdf)
+
+<use Plots/nuisances/nuisances-QCD.pdf>
+Package pdftex.def Info: Plots/nuisances/nuisances-QCD.pdf used on input line 9
+.
+(pdftex.def)             Requested size: 216.81pt x 155.62807pt.
+
+<Plots/nuisances/nuisances-j3.pdf, id=6778, 569.12625pt x 408.52625pt>
+File: Plots/nuisances/nuisances-j3.pdf Graphic file (type pdf)
+
+<use Plots/nuisances/nuisances-j3.pdf>
+Package pdftex.def Info: Plots/nuisances/nuisances-j3.pdf used on input line 17
+.
+(pdftex.def)             Requested size: 216.81pt x 155.62807pt.
+
+<Plots/nuisances/nuisances-j4.pdf, id=6779, 569.12625pt x 408.52625pt>
+File: Plots/nuisances/nuisances-j4.pdf Graphic file (type pdf)
+
+<use Plots/nuisances/nuisances-j4.pdf>
+Package pdftex.def Info: Plots/nuisances/nuisances-j4.pdf used on input line 18
+.
+(pdftex.def)             Requested size: 216.81pt x 155.62807pt.
+) [106
+
+
+
+] [107 <./Plots/nuisances/nuisances-other.pdf, page is rotated 90 degrees> <./P
+lots/nuisances/nuisances-kJ.pdf, page is rotated 90 degrees> <./Plots/nuisances
+/nuisances-QCD.pdf, page is rotated 90 degrees>] [108 <./Plots/nuisances/nuisan
+ces-j3.pdf, page is rotated 90 degrees> <./Plots/nuisances/nuisances-j4.pdf, pa
+ge is rotated 90 degrees>]
+(./thesismain.lof
+Overfull \hbox (3.80121pt too wide) in paragraph at lines 3--3
+ [][] [][][]\OT1/jkp/m/n/10.95 All fun-da-men-tal par-ti-cles of the stan-dard 
+model, the gauge and Higgs bosons 
+ []
+
+
+Overfull \hbox (6.18549pt too wide) in paragraph at lines 7--7
+ [][] [][][]\OT1/jkp/m/n/10.95 Diagrams show-ing the sim-pli-fied mod-els T1ttt
+t (left) and T5qqqqWW (right). 
+ []
+
+[109
+
+
+] [110]
+Overfull \hbox (45.7835pt too wide) in paragraph at lines 39--39
+ \OT1/jkp/m/n/10.95 +$\OML/jkp/m/it/10.95 W \OT1/jkp/m/n/10.95 + []$) (top), an
+d the sig-nal T5qqqWW(1900,100) (left) and T5qqqWW(1500,1000) 
+ []
+
+[111] [112] [113]
+Overfull \hbox (0.93071pt too wide) detected at line 81
+ []\OT1/jkp/m/n/10.95 100
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 91
+ []\OT1/jkp/m/n/10.95 101
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 101
+ []\OT1/jkp/m/n/10.95 102
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 111
+ []\OT1/jkp/m/n/10.95 103
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 121
+ []\OT1/jkp/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 131
+ []\OT1/jkp/m/n/10.95 105
+ []
+
+[114]
+Overfull \hbox (0.93071pt too wide) detected at line 143
+ []\OT1/jkp/m/n/10.95 107
+ []
+
+
+Overfull \hbox (0.93071pt too wide) detected at line 147
+ []\OT1/jkp/m/n/10.95 108
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `thesismain.lof'.
+
+ [115] (./thesismain.lot)
+\tf@lot=\write7
+\openout7 = `thesismain.lot'.
+
+ [116
+
+]
+\openout2 = `abbreviations.aux'.
+
+ (./abbreviations.tex [117
+
+
+])
+(./bibliography.tex
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 4353) in paragraph at lines 54--58
+[]\OT1/jkp/m/n/10.95 S. Wein-berg, A Model of Lep-tons, Phys. Rev. Lett. 19 (19
+67) 12641266,
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no Ã in font jkpmn7t!
+Missing character: There is no Ñ in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+[118
+
+
+]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 4266) in paragraph at lines 78--82
+[]\OT1/jkp/m/n/10.95 CMS Col-lab-o-ra-tion, Ob-ser-va-tion of a new bo-son at a
+ mass of 125 GeV
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+\OT1/jkp/m/n/10.95 with the CMS ex-per-i-ment at the LHC, Phys. Lett. \OT1/jkp/
+b/n/10.95 B716 \OT1/jkp/m/n/10.95 (2012) 3061,
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no √ in font jkpmn7t!
+Missing character: There is no º in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no Ø in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 4024) in paragraph at lines 132--137
+[]\OT1/jkp/m/n/10.95 G. Hin-shaw \OT1/jkp/m/it/10.95 et al. \OT1/jkp/m/n/10.95 
+[WMAP Col-lab-o-ra-tion], ``Five-Year Wilkin-son Mi-crowave
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 138--143
+[]\OT1/jkp/m/n/10.95 Boggess, N. W.; et al. (1992). "The COBE Mis-sion: Its De-
+sign and Per-for-
+ []
+
+[119]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+[]\OT1/jkp/b/n/10.95 Super-Kamiokande \OT1/jkp/m/n/10.95 Col-lab-o-ra-tion, Ev-
+i-dence for os-cil-la-tion of at-mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+\OT1/jkp/m/n/10.95 spheric neu-tri-nos, Phys. Rev. Lett. \OT1/jkp/b/n/10.95 81 
+\OT1/jkp/m/n/10.95 (Aug, 1998) 15621567. doi:
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no Ø in font jkpmn7t!
+
+Underfull \hbox (badness 1320) in paragraph at lines 191--196
+[]\OT1/jkp/m/n/10.95 S. Cha-trchyan \OT1/jkp/m/it/10.95 et al. \OT1/jkp/m/n/10.
+95 [CMS Col-lab-o-ra-tion], ``In-ter-pre-ta-tion of Searches for Su-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 191--196
+\OT1/jkp/m/n/10.95 per-sym-me-try with sim-pli-fied Mod-els,'' Phys. Rev. D \OT
+1/jkp/b/n/10.95 88\OT1/jkp/m/n/10.95 , no. 5, 052017 (2013)
+ []
+
+Missing character: There is no √ in font jkpmn7t!
+Missing character: There is no § in font jkpmn7t!
+[120]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+[]\OT1/jkp/m/n/10.95 C. Borschen-sky et al., LHC SUSY Cross Sec-tion Work-ing G
+roup.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+\OT1/jkp/m/n/10.95 https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSec
+tions. (Ac-cessed
+ []
+
+
+Overfull \hbox (61.29726pt too wide) in paragraph at lines 208--209
+[]\OT1/jkp/m/n/10.95 https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CombinedSum
+maryPlots/SUSY/index.html 
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 1931) in paragraph at lines 222--227
+[]\OT1/jkp/m/n/10.95 D. Alves \OT1/jkp/m/it/10.95 et al. \OT1/jkp/m/n/10.95 [LH
+C New Physics Work-ing Group], ``Sim-pli-fied Mod-els for
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 222--227
+\OT1/jkp/m/n/10.95 LHC New Physics Searches,'' J. Phys. G \OT1/jkp/b/n/10.95 39
+\OT1/jkp/m/n/10.95 , 105005 (2012) doi:10.1088/0954-
+ []
+
+
+Overfull \hbox (6.8211pt too wide) in paragraph at lines 228--229
+[]\OT1/jkp/m/n/10.95 https://twiki.cern.ch/twiki/bin/view/CMSPublic/SUSMoriond2
+017ObjectsEfficiency
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ô in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+[121]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 3872) in paragraph at lines 248--250
+[]\OT1/jkp/m/n/10.95 CMS Col-lab-o-ra-tion, Event gen-er-a-tor tunes ob-tained 
+from un-der-ly-ing event
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 248--250
+\OT1/jkp/m/n/10.95 and mul-ti-par-ton scat-ter-ing mea-sure-ments, Eur. Phys. J
+. C 76 (2016) 155,
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--283
+[]\OT1/jkp/m/n/10.95 "The Pro-ton Syn-chrotron Booster", July 2012, url:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
+[]\OT1/jkp/m/n/10.95 "The Su-per Pro-ton Syn-chrotron", Jan. 2012, url:
+ []
+
+[122]
+Missing character: There is no Ã in font jkpmn7t!
+Missing character: There is no à in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+ [123]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 7486) in paragraph at lines 369--370
+[]\OT1/jkp/m/n/10.95 S. Ali-oli, P. Na-son, C. Oleari, and E. Re, NLO single-to
+p pro-duc-tion
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 369--370
+\OT1/jkp/m/n/10.95 matched with shower in POWHEG: s- and t-channel con-tri-bu-t
+ions, JHEP
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 369--370
+\OT1/jkp/m/n/10.95 09 (2009) 111, doi:10.1088/1126-6708/2009/09/111, arXiv:0907
+.4076. [Er-ra-tum:
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ì in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]\OT1/jkp/m/n/10.95 CMS-doc-4172: Static im-age with tracks. https://cms-docdb
+.cern.ch/cgi-
+ []
+
+[124]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 2229) in paragraph at lines 383--384
+[]\OT1/jkp/m/n/10.95 J. Al-wall, P. C. Schus-ter, and N. Toro, Sim-pli-fied mod
+-els for a first char-
+ []
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 383--384
+\OT1/jkp/m/n/10.95 ac-ter-i-za-tion of new physics at the LHC, Phys. Rev. D \OT
+1/jkp/b/n/10.95 79 \OT1/jkp/m/n/10.95 (2009) 075020,
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 4981) in paragraph at lines 387--388
+\OT1/jkp/m/n/10.95 (2003) TULT009, doi:10.1088/0954-3899/31/9/N01, arXiv:physic
+s/0306087. [J.
+ []
+
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+[125]
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+
+Underfull \hbox (badness 2772) in paragraph at lines 409--410
+[]\OT1/jkp/m/n/10.95 Salam, Gavin P., To-wards je-tog-ra-phy, Eur. Phys. J. C \
+OT1/jkp/b/n/10.95 67 \OT1/jkp/m/n/10.95 no. 3, (2010) .
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.JEC}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.410 \bibitem{JEC}
+                   
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no ‚ in font jkpmn7t!
+Missing character: There is no Ä in font jkpmn7t!
+Missing character: There is no ù in font jkpmn7t!
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the thesismain.maf file.
+\openout3 = `thesismain.maf'.
+
+
+
+Package natbib Warning: There were undefined citations.
+
+
+Package natbib Warning: There were multiply defined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+[126]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+ (./thesismain.aux (./dedication.aux) (./acknowlegements.aux)
+(./abstract.aux) (./appendix_samp.aux) (./appendix_CRplots.aux)
+(./appendix_nuisances.aux) (./abbreviations.aux)
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package rerunfilecheck Info: File `thesismain.out' has not changed.
+(rerunfilecheck)             Checksum: DA9C7422B83518AF0B2C58A179380380;5816.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+ ) 
+Here is how much of TeX's memory you used:
+ 11689 strings out of 493117
+ 192135 string characters out of 6135433
+ 288449 words of memory out of 5000000
+ 13972 multiletter control sequences out of 15000+600000
+ 82135 words of font info for 188 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,15n,33p,4032b,825s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
+c}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/kpfonts/jkpbmi.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/kpfonts/jkpbmia.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/kpfonts/jkpbne.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/kpfonts/jkpbsy.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/kpfonts/jkpex.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/public/kpfonts/jkpmi.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/kpfonts/jkpmia.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/kpf
+onts/jkpmit8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/kpfont
+s/jkpmn8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/kpfonts/jk
+pmne.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/kpfonts/jkpmsc8
+a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
+
+Output written on thesismain.pdf (136 pages, 9680654 bytes).
+PDF statistics:
+ 7513 PDF objects out of 8907 (max. 8388607)
+ 4648 compressed objects within 47 object streams
+ 532 named destinations out of 1000 (max. 500000)
+ 1353 words of extra memory for PDF output out of 10000 (max. 10000000)
+
