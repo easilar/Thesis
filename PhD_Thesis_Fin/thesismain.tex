@@ -1,0 +1,169 @@
+%\documentclass[12pt]{thesis}  % default square logo
+\documentclass[a4paper, 11pt, twoside]{thesis}
+%\documentclass[12pt,beltcrest]{ociamthesis} % use old belt crest logo
+%\documentclass[12pt,shieldcrest]{ociamthesis} % use older shield crest logo
+\usepackage[
+pdftex,
+pdftitle={Search for supersymmetry in the single lepton final state in 13 TeV pp collisions with the CMS experiment},
+pdfauthor={Ece Asilar},
+pdfsubject={Particle Physics, Thesis, HEPHY},
+pdfkeywords={DeltaPhi, Single lepton, SUSY, CMS}
+pdfstartview={FitH},
+colorlinks=true,
+final,
+pdfstartview=FitV,
+linkcolor=black,
+citecolor=black,
+urlcolor=black,
+bookmarks=true,
+bookmarksnumbered=true,
+bookmarksopen=true,
+bookmarksopenlevel=4
+]{hyperref}
+
+%\include{usepackages}
+
+\usepackage{kpfonts}
+
+%load any additional packages
+
+\usepackage{amssymb}
+\usepackage{longtable}
+\usepackage[nohints]{minitoc}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{braket}
+\usepackage{slashed}
+\usepackage{subfigure}
+\usepackage{rotating}
+%\usepackage{esvect}
+%\usepackage{lipsum}
+\usepackage[numbers,sort&compress]{natbib}
+
+%input macros (i.e. write your own macros file called mymacros.tex 
+%and uncomment the next line)
+%\include{mymacros}
+%\include{usepackages}
+
+
+%\title{Search for supersymmetry in the single lepton final state in 13 TeV pp collisions\\with the CMS experiment}
+
+%\author{Ece Asilar}             %your name
+%\college{}  %your college
+
+%\renewcommand{\submittedtext}{change the default text here if needed}
+%\degree{Doctor of Philosophy}     %the degree
+%\degreedate{August 2017}         %the degree date
+%\usepackage{fancyhdr}
+
+ %This section puts the chapter and the page number on the top of the pages
+%\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+%\fancyhf{}
+%\fancyhead[LE,RO]{\bfseries\thepage}
+%\fancyhead[LO]{\bfseries\rightmark}
+%\fancyhead[RE]{\bfseries\leftmark}
+
+\usepackage{hyperref}
+%
+\usepackage[utf8]{inputenc}
+%\usepackage[toc]{glossaries}
+\usepackage[acronym, toc]{glossaries}
+\makeglossaries
+
+\input{abbreviations.tex}
+
+%\usepackage{glossaries}
+
+%\makeglossaries
+
+%end the preamble and start the document
+\begin{document}
+
+
+%\include{TitlePage2}
+
+%this baselineskip gives sufficient line spacing for an examiner to easily
+%markup the thesis with comments
+\baselineskip=15pt plus1pt
+
+%set the number of sectioning levels that get number and appear in the contents
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\maketitle                  % create a title page from the preamble info
+\null
+\thispagestyle{empty}%
+\addtocounter{page}{-1}%
+
+\input{commands.tex}
+
+\include{dedication}        % include a dedication.tex file
+\include{acknowlegements}   % include an acknowledgements.tex file
+\include{abstract}          % include the abstract
+
+\begin{romanpages}          % start roman page numbering
+%\dominitoc
+\tableofcontents            % generate and include a table of contents
+\listoffigures              % generate and include a list of figures
+\listoftables
+%\lipsum
+\end{romanpages}            % end roman page numbering
+%\makeglossaries
+
+%\glossarystyle{style}
+
+%now include the files of latex for each of the chapters etc
+
+\input{introduction.tex}
+\addcontentsline{toc}{chapter}{Introduction}
+
+%\printglossaries
+
+\input{superSymmetry.tex}
+\input{experimentalSetup.tex}
+\input{objectRecoIdentification.tex}
+\input{eventSel.tex}
+\input{backgroundEstimation.tex}
+\input{systematics.tex}
+\input{results.tex}
+\input{conclusion.tex}
+\addcontentsline{toc}{chapter}{Conclusion}
+\clearpage
+%now enable appendix numbering format and include any appendices
+\appendix
+\include{appendix_samp}
+\include{appendix_CRplots}
+\include{appendix_nuisances}
+%\begin{romanpages} 
+
+%\end{romanpages}
+%\include{abbreviations}
+%
+%%\printglossary[type=\acronymtype]
+\clearpage
+ 
+\printglossary
+
+\printglossary[type=\acronymtype]
+ 
+%
+
+
+\input{bibliography.tex}
+%\bibliography{bibliography}   
+%\bibliographystyle{plain}
+\addcontentsline{toc}{chapter}{Bibliography}
+
+%\include{cv}
+
+%next line adds the Bibliography to the contents page
+
+%uncomment next line to change bibliography name to references
+%\renewcommand{\bibname}{References}
+     %use a bibtex bibliography file refs.bib
+  %use the plain bibliography style
+
+\end{document}
+
